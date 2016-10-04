@@ -1,0 +1,6 @@
+# python
+*.pyc
+*.pickle
+
+# test
+data/*test*.txt
