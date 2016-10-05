@@ -13,7 +13,7 @@ import webbrowser as web
 class Exp:
     def __init__(self):
         self.expName = 'LSS'
-        self.surveyURL = "https://docs.google.com/forms/d/e/1FAIpQLSdAUsq7IdPQ2n2y_Gyv0xMI0bKKaHz66jrqo8ckGv3ATwP47Q/viewform?entry.214853107={subj_id}&entry.497668873={room}"
+        self.surveyURL = "https://docs.google.com/forms/d/e/1FAIpQLSdAUsq7IdPQ2n2y_Gyv0xMI0bKKaHz66jrqo8ckGv3ATwP47Q/viewform?entry.214853107={subjCode}&entry.497668873={room}"
         self.path = os.getcwd()
         self.subjInfo = {
                 '1':  { 'name' : 'subjCode',
