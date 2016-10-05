@@ -65,8 +65,8 @@ class Exp:
                 pygame.init()
                 print "Using gamepad..."
                 self.inputDevice = "gamepad"
-                self.validResponses = {'left':7,'right':8}
-                responseInfo = "Press the Left button for LEFT and the Right button for RIGHT."
+                self.validResponses = {'left':6,'right':7}  # big shoulder buttons
+                responseInfo = "Press the Left big shoulder button for LEFT and the Right big shoulder button for RIGHT."
                 breakInfo = "Press the Green button to continue."
             except SystemExit:
                 print "No gamepad found; using keyboard..."
@@ -98,12 +98,10 @@ class Exp:
         self.instructions = \
 """
 Thank you for participating!
-    In this experiment, you will hear various words like 'dog' and 'guitar' followed by pictures appearing on the left or right side of the screen.
-    Sometimes the words will match the pictures and sometimes they won't. All you need to do though is decide as quickly as possible if the 
-    picture appears on the left or the right side of the screen. The experimenter will explain which buttons you should use to respond.
 
-    Please answer as quickly as you can. If you make a mistake, you will hear a buzzing sound. Let the
-experimenter know when you have completed reading these instructions.
+In this experiment, you will hear various words like 'dog' and 'guitar' followed by pictures appearing on the left or right side of the screen. Sometimes the words will match the pictures and sometimes they won't. All you need to do is decide as quickly as possible if the picture appears on the left or the right side of the screen.
+
+Please answer as quickly and accurately as you can. If you make a mistake, you will hear a buzzing sound. Please let the experimenter know when you have completed reading these instructions.
 
 """
         self.instructions+=breakInfo
@@ -115,9 +113,7 @@ experimenter know when you have completed reading these instructions.
 """
 You've come to the end of the experiment! 
 
-A short survey should appear on the screen after you exit this screen. The first two questions
-of the survey should be filled in. If the survey does not appear on your screen, or the first two answers
-are not already filled in, please alert the experimenter. Thank you for participating!
+A short survey should appear on the screen after you exit this screen. The first two questions of the survey should be filled in. If the survey does not appear on your screen, or the first two answers are not already filled in, please alert the experimenter. Thank you for participating!
 
 """ + breakInfo
     
@@ -223,7 +219,7 @@ class ExpPresentation(Exp):
             curBlock = 0
             for curTrial in self.trialListMatrix:
                 if curTrial['block'] > curBlock:
-                    showText(self.experiment.win, self.experiment.takeBreak, color=(0,0,0), inputDevice=self.experiment.inputDevice) #take a break
+                    showText(self.experiment.win, self.experiment.takeBreak, color=(1,1,1), inputDevice=self.experiment.inputDevice) #take a break
                     curBlock += 1
                 self.presentTestTrial(whichPart, curTrial, curTrialIndex)
                 curTrialIndex += 1
