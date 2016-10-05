@@ -11,11 +11,11 @@ import numpy as np
 def counterbalance(conditions):
     """
     Generates all possible independent variable combinations.
-    
+
     Used primarily for full counterbalancing of within-subject variables; e.g.,
-    {'condition':[1,2,3], 'response':['right','left']}. Each row of the 
+    {'condition':[1,2,3], 'response':['right','left']}. Each row of the
     resulting pandas.DataFrame contains a unique combination of conditions.
-    
+
         conditions --> dict of conditions
         ------------------------
         returns pandas.DataFrame
@@ -23,15 +23,15 @@ def counterbalance(conditions):
     import itertools as itls
     trials = list(itls.product(*conditions.values()))
     return pd.DataFrame(trials, columns=conditions.keys())
-    
+
 def expand(valid, ids, ratio=0.5, seed=None):
     """
     Duplicates valid trials as necessary to satisfy the valid:invalid ratio.
-    
-    Used when complete counterbalancing is not plausible. For example, when the 
+
+    Used when complete counterbalancing is not plausible. For example, when the
     ratio of trials requiring response A to those requiring response B is not
     50:50.
-    
+
         valid --> pandas.DataFrame; valid trials (not altered by method)
         ids --> list of length 2; names for the ID columns.
         ratio --> 0.5 <= float < 1.0; % of valid trials in the resulting frame.
@@ -40,17 +40,17 @@ def expand(valid, ids, ratio=0.5, seed=None):
         returns pandas.DataFrame
     """
     prng = np.random.RandomState(seed)
-    
+
     num_invalid = int((len(valid)*(1.0-ratio))/ratio) # invalid trials
     sampled = prng.choice(valid.index, num_invalid, replace=False)
     sampled.sort()
     invalid = valid.reindex(sampled).reset_index(drop=True)
     return pd.concat([valid, invalid], keys=[1,0], names=ids).reset_index()
-    
+
 def extend(frame, max_length, ids=['trialIter','trialID']):
     """
     Duplicates the unique trials for a total length less than the provided max.
-    
+
         frame --> pandas.DataFrame of unique trials
         max_length --> int max trials allowable in the experiment
         ids --> list of length 2; names for the ID columns
@@ -64,7 +64,7 @@ def extend(frame, max_length, ids=['trialIter','trialID']):
 def add_block(frame, block_size, id_col=None, seed=None):
     """
     Creates a new column for block.
-        
+
         frame --> pandas.DataFrame of trials
         block_size --> int number of trials in each block
         id_col --> str column name; chunk frame by column before assignment
@@ -80,24 +80,32 @@ def add_block(frame, block_size, id_col=None, seed=None):
             if (i+1)%len(blocks):
                 prng.shuffle(blocks)
             i = (i+1)%len(blocks)
-            
+
     prng = np.random.RandomState(seed)
     blocks = range(len(frame)/block_size)
     assigner = _assigner(blocks, prng)
-    
+
     def _add(chunk):
         chunk['block'] = [assigner.next() for _ in xrange(len(chunk))]
         return chunk
-    
+
     if id_col is None:
-        return _add(frame).sort_values('block')
+        try:
+            x = _add(frame).sort_values('block')
+        except AttributeError:
+            x = _add(frame).sort('block')
+        return x
     else:
-        return frame.groupby(id_col).apply(_add).sort_values('block')
-                
+		try:
+			x = frame.groupby(id_col).apply(_add).sort_values('block')
+		except AttributeError:
+			x = frame.groupby(id_col).apply(_add).sort('block')
+		return x
+
 def smart_shuffle(frame, col, block=None, seed=None, verbose=True, lim=10000):
     """
     Shuffles trials such that equivalent trials never appear back to back.
-        
+
         frame --> pandas.DataFrame of trials
         id_col --> str column name; column to ensure non-repeating trials
         block --> str column name; chunk frame by block before shuffling
@@ -106,7 +114,7 @@ def smart_shuffle(frame, col, block=None, seed=None, verbose=True, lim=10000):
         returns pandas.DataFrame
     """
     prng = np.random.RandomState(seed)
-        
+
     def _shuffle(chunk):
         orig_index = chunk.index
         repeats = None
@@ -120,10 +128,10 @@ def smart_shuffle(frame, col, block=None, seed=None, verbose=True, lim=10000):
                 break
         if i==lim-1 and verbose:
             print 'Iteration limit reached! Minimum repeats: ', str(repeats)
-        
+
         chunk.index = orig_index
         return chunk
-    
+
     if block is None:
         return _shuffle(frame)
     else:
@@ -140,13 +148,13 @@ class StimGenerator(object):
         self.valid_col = valid_col
         self.input_col = input_col
         self.output_col = output_col or input_col
-        
+
         self.prng = np.random.RandomState(seed)
         self._gens = {}
 
     def next(self, trial):
         """
-        
+
         """
         genID = (trial[self.input_col], trial[self.valid_col])
         if genID not in self._gens.keys():
@@ -168,6 +176,6 @@ class StimGenerator(object):
         i = 0
         while True:
             yield _sub.ix[opts[i%len(_sub)]][self.output_col]
-            if (i+1)%len(opts): 
+            if (i+1)%len(opts):
                 self.prng.shuffle(opts)
             i = (i+1)%len(opts)
