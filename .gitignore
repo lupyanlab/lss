@@ -5,3 +5,4 @@
 # test
 data/*test*.txt
 sample_trials.csv
+.Rproj.user
