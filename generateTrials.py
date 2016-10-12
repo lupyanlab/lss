@@ -10,7 +10,7 @@ from experimentResources import (counterbalance, expand, extend,
                                  add_block, smart_shuffle)
 from experimentResources import StimGenerator
 
-def main(seed=None, picCueMapping='random', ratio=0.50, block_size=100,
+def main(seed=None, cuePicMapping='random', ratio=0.50, block_size=100,
          id_col='cue_category'):
     if seed:
     	seed = int(seed)
@@ -32,12 +32,12 @@ def main(seed=None, picCueMapping='random', ratio=0.50, block_size=100,
     trials = add_block(trials, block_size, id_col, seed)
     trials = smart_shuffle(trials, 'cue_category', 'block', seed)
 
-    if picCueMapping == 'fixed':
+    if cuePicMapping == 'fixed':
         trials['cue_version'] = trials.pic_version
-    elif picCueMapping == 'reversed':
+    elif cuePicMapping == 'reversed':
         reverser = dict(A='B', B='A')
-        trials['cue_version'] = trials.pic_version.apply(reverser)
-    elif picCueMapping == 'random':
+        trials['cue_version'] = trials.pic_version.map(reverser)
+    elif cuePicMapping == 'random':
         # To determine cue_version, simply shuffle all the pic_versions
         shuffled_pic_versions = trials.pic_version.sample(len(trials)).tolist()
         trials['cue_version'] = shuffled_pic_versions
@@ -57,5 +57,5 @@ def write(path, **kwargs):
     trials.to_csv(path, index=False)
 
 if __name__ == '__main__':
-    trials = main()
+    trials = main(cuePicMapping='reversed')
     trials.to_csv('sample_trials.csv', index=False)
