@@ -10,7 +10,8 @@ from experimentResources import (counterbalance, expand, extend,
                                  add_block, smart_shuffle)
 from experimentResources import StimGenerator
 
-def main(seed=None, ratio=0.50, block_size=100, id_col='cue_category'):
+def main(seed=None, picCueMapping='random', ratio=0.50, block_size=100,
+         id_col='cue_category'):
     if seed:
     	seed = int(seed)
     conditions = {'cue_type':['label'],
@@ -31,9 +32,17 @@ def main(seed=None, ratio=0.50, block_size=100, id_col='cue_category'):
     trials = add_block(trials, block_size, id_col, seed)
     trials = smart_shuffle(trials, 'cue_category', 'block', seed)
 
-    # To determine cue_version, simply shuffle all the pic_versions
-    shuffled_pic_versions = trials.pic_version.sample(len(trials)).tolist()
-    trials['cue_version'] = shuffled_pic_versions
+    if picCueMapping == 'fixed':
+        trials['cue_version'] = trials.pic_version
+    elif picCueMapping == 'reversed':
+        reverser = dict(A='B', B='A')
+        trials['cue_version'] = trials.pic_version.apply(reverser)
+    elif picCueMapping == 'random':
+        # To determine cue_version, simply shuffle all the pic_versions
+        shuffled_pic_versions = trials.pic_version.sample(len(trials)).tolist()
+        trials['cue_version'] = shuffled_pic_versions
+    else:
+        raise NotImplementedError('picCueMaping = {}'.format(picCueMapping))
 
     trials['pic_id'] = trials['pic_id'].astype(str)
     trials['pic_file'] = trials['pic_category'] + '_' + trials['pic_type'] + \
@@ -43,19 +52,10 @@ def main(seed=None, ratio=0.50, block_size=100, id_col='cue_category'):
 
     return trials
 
-def write(path, seed):
-    trials = main(seed=seed)
+def write(path, **kwargs):
+    trials = main(**kwargs)
     trials.to_csv(path, index=False)
-
-def make(number, start=101):
-    seeds = np.array(range(number)) + start
-    for seed in seeds:
-        path = 'trials/seed'+str(seed)+'.csv'
-        trials = main(seed=seed)
-        trials.to_csv(path, index=False)
-        print 'Finished seed: ', str(seed)
 
 if __name__ == '__main__':
     trials = main()
-    make(8, start=115)
-    # trials.to_csv('sample_trials.csv', index=False)
+    trials.to_csv('sample_trials.csv', index=False)

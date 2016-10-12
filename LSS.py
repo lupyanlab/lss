@@ -24,19 +24,23 @@ class Exp:
                         'prompt' : 'Seed: ',
                         'options': 'any',
                         'default': 101},
-                '3' : { 'name' : 'responseDevice',
+                '3':  { 'name' : 'cuePicMapping',
+                        'prompt' : 'fixed / reversed / random',
+                        'options' : ('fixed', 'reversed', 'random'),
+                        'default' : 'random'},
+                '4' : { 'name' : 'responseDevice',
                         'prompt' : 'keyboard / gamepad',
                         'options' : ("keyboard","gamepad"),
                         'default':'keyboard'},
-                '4' : { 'name' : 'data',
+                '5' : { 'name' : 'data',
                         'prompt' : 'subject / practice',
                         'options' : ("subject","practice"),
                         'default':'subject'},
-                '5' : { 'name' : 'room',
+                '6' : { 'name' : 'room',
                         'prompt' : 'Kramer / George / Elaine / Jerry',
                         'options' : ("Kramer","George","Elaine","Jerry"),
                         'default' : 'Kramer'},
-                '6' : { 'name' : 'initials',
+                '7' : { 'name' : 'initials',
                         'prompt' : 'experimenter initials',
                         'options' : 'any',
                         'default' : ''}
@@ -130,11 +134,13 @@ class ExpPresentation(Exp):
             trialsPath = 'trials/seed%s.csv' % (self.experiment.subjVariables['seed'])
         if not os.path.isfile(trialsPath):
             print 'Trials file not found. Creating...'
-            generateTrials.write(trialsPath, self.experiment.subjVariables['seed'])
+            generateTrials.write(
+                path=trialsPath,
+                seed=self.experiment.subjVariables['seed'],
+                cuePicMapping=self.experiment.subjVariables['cuePicMapping'],
+            )
         self.pictureMatrix = loadFiles('stimuli/pictures', 'jpg', 'image', self.experiment.win)
         self.soundMatrix = loadFiles('stimuli/sounds', 'wav', 'sound', win=self.experiment.win)
-
-        print self.pictureMatrix
 
         (self.trialListMatrix, self.fieldNames) = importTrials(trialsPath, method="sequential")
         self.fixSpot = visual.TextStim(self.experiment.win,text="+",height = 50,color="black")
