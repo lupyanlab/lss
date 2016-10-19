@@ -6,3 +6,6 @@
 data/*test*.txt
 sample_trials.csv
 .Rproj.user
+
+# os
+.DS_Store
