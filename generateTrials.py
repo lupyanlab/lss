@@ -13,10 +13,10 @@ from experimentResources import StimGenerator
 def main(seed=None, cuePicMapping='random', ratio=0.50, block_size=100,
          id_col='cue_category'):
     if seed:
-    	seed = int(seed)
+        seed = int(seed)
     conditions = {'cue_type':['label'],
-    			  'soa': ['.8', '1.0', '1.2'],
-    			  'side': ['left','right'],
+                  'soa': ['.8', '1.0', '1.2'],
+                  'side': ['left','right'],
                   'pic_version':['A','B']}
     trialTypes = counterbalance(conditions)
     picInfo = pd.read_csv('stimuli_info.csv')
@@ -57,5 +57,8 @@ def write(path, **kwargs):
     trials.to_csv(path, index=False)
 
 if __name__ == '__main__':
-    trials = main(cuePicMapping='reversed')
+    #for seed in range(101,122):
+    #    print 'generating ', str(seed)
+    #    trials = main(cuePicMapping='random',seed=seed)
+    #    trials.to_csv('trials/seed'+str(seed)+'.csv', index=False)
     trials.to_csv('sample_trials.csv', index=False)

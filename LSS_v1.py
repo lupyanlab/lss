@@ -145,8 +145,8 @@ class ExpPresentation(Exp):
         (self.trialListMatrix, self.fieldNames) = importTrials(trialsPath, method="sequential")
         self.fixSpot = visual.TextStim(self.experiment.win,text="+",height = 50,color="black")
         #self.rectOuter = newRect(self.experiment.win,size=(310,305),pos=self.experiment.stimPositions['center'],color=(.5,.5,.5))
-		#self.rectInner = newRect(self.experiment.win,size=(305,305),pos=self.experiment.stimPositions['center'],color=(1,1,1))
-		#self.frames = [self.rectOuter, self.rectInner]
+        #self.rectInner = newRect(self.experiment.win,size=(305,305),pos=self.experiment.stimPositions['center'],color=(1,1,1))
+        #self.frames = [self.rectOuter, self.rectInner]
 
 
     def checkExit(self):
