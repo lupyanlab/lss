@@ -1,0 +1,61 @@
+---
+title: "LSS"
+output:
+  html_document:
+    theme: flatly
+    css: reports/style.css
+---
+
+```{r config, echo = FALSE}
+library(knitr)
+
+opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  fig.path = "figs/",
+  cache = TRUE,
+  cache.path = ".cache/"
+)
+
+read_chunk("results.R")
+```
+
+```{r setup}
+```
+
+# Subjects
+
+```{r subjects}
+```
+
+## Drop outliers
+
+```{r drop-outliers, echo = TRUE}
+```
+
+# RT
+
+```{r rt-mod, echo = 1}
+```
+
+```{r, results = "asis"}
+tidy(rt_mod, effects = "fixed") %>%
+  kable(digits = 2)
+```
+
+```{r rt-plot}
+```
+
+# Error
+
+```{r error-mod, echo = 1}
+```
+
+```{r, results = "asis"}
+tidy(error_mod, effects = "fixed") %>%
+  kable(digits = 2)
+```
+
+```{r error-plot}
+```

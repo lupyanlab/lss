@@ -5,7 +5,14 @@
 # test
 data/*test*.txt
 sample_trials.csv
+
+# R
 .Rproj.user
 
 # os
 .DS_Store
+
+# reproducible
+figs/
+.cache/
+results.html
