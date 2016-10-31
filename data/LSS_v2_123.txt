@@ -1,296 +1,296 @@
-LSS_v2_123	123	random	gamepad	subject	George		1	270	0	126	1.2	label	left	B	guitar	acoustic	1	dog	0	B	guitar_acoustic_1	dog_label_B	practice	0	259.986760436	1	573.320303578
-LSS_v2_123	123	random	gamepad	subject	George		1	204	0	60	1.2	label	right	A	bird	hawk	1	motor	0	B	bird_hawk_1	motor_label_B	practice	0	263.922419458	1	359.269375331
-LSS_v2_123	123	random	gamepad	subject	George		1	49	1	49	1.2	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	practice	0	267.811415435	1	314.408116741
-LSS_v2_123	123	random	gamepad	subject	George		1	241	0	97	1.0	label	left	B	bird	song	2	drum	0	B	bird_song_2	drum_label_B	practice	0	271.502874569	1	313.012204133
-LSS_v2_123	123	random	gamepad	subject	George		1	169	0	25	1.0	label	left	A	bird	hawk	2	dog	0	B	bird_hawk_2	dog_label_B	practice	0	275.20271718	1	323.164499714
-LSS_v2_123	123	random	gamepad	subject	George		1	192	0	48	1.2	label	left	A	bird	hawk	1	phone	0	A	bird_hawk_1	phone_label_A	practice	0	279.077631116	1	290.259564179
-LSS_v2_123	123	random	gamepad	subject	George		1	22	1	22	0.8	label	right	A	motor	dirt	1	motor	0	B	motor_dirt_1	motor_label_B	practice	0	282.610675771	1	357.447102782
-LSS_v2_123	123	random	gamepad	subject	George		1	18	1	18	0.8	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	practice	0	286.135287654	1	343.850318226
-LSS_v2_123	123	random	gamepad	subject	George		1	251	0	107	1.0	label	left	B	motor	harley	2	phone	0	A	motor_harley_2	phone_label_A	test	0	293.526838109	1	335.260061896
-LSS_v2_123	123	random	gamepad	subject	George		1	126	1	126	1.2	label	left	B	guitar	acoustic	1	guitar	0	A	guitar_acoustic_1	guitar_label_A	test	1	297.409973877	1	295.075638918
-LSS_v2_123	123	random	gamepad	subject	George		1	130	1	130	1.2	label	left	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	test	2	301.293241843	1	299.8369782
-LSS_v2_123	123	random	gamepad	subject	George		1	33	1	33	1.0	label	left	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	test	3	304.984636319	1	317.11959932
-LSS_v2_123	123	random	gamepad	subject	George		1	18	1	18	0.8	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	test	4	308.593020565	1	375.169527717
-LSS_v2_123	123	random	gamepad	subject	George		1	131	1	131	1.2	label	left	B	motor	harley	2	motor	0	B	motor_harley_2	motor_label_B	test	5	312.500902494	1	336.506172433
-LSS_v2_123	123	random	gamepad	subject	George		1	65	1	65	1.2	label	right	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	test	6	316.450738944	1	363.785845693
-LSS_v2_123	123	random	gamepad	subject	George		1	206	0	62	1.2	label	right	A	dog	rott	1	guitar	0	B	dog_rott_1	guitar_label_B	test	7	320.425556821	1	394.619478495
-LSS_v2_123	123	random	gamepad	subject	George		1	89	1	89	0.8	label	right	B	drum	bongo	2	drum	0	A	drum_bongo_2	drum_label_A	test	8	324.008464461	1	383.855490829
-LSS_v2_123	123	random	gamepad	subject	George		1	93	1	93	0.8	label	right	B	phone	rotary	2	phone	0	B	phone_rotary_2	phone_label_B	test	9	327.591624012	1	410.744974273
-LSS_v2_123	123	random	gamepad	subject	George		1	286	0	142	1.2	label	right	B	motor	harley	1	drum	0	A	motor_harley_1	drum_label_A	test	10	331.525121786	1	358.808445628
-LSS_v2_123	123	random	gamepad	subject	George		1	169	0	25	1.0	label	left	A	bird	hawk	2	dog	0	B	bird_hawk_2	dog_label_B	test	11	335.208165433	1	299.428863334
-LSS_v2_123	123	random	gamepad	subject	George		1	241	0	97	1.0	label	left	B	bird	song	2	drum	0	B	bird_song_2	drum_label_B	test	12	338.957993945	1	298.894953215
-LSS_v2_123	123	random	gamepad	subject	George		1	240	0	96	1.0	label	left	B	bird	song	1	motor	0	A	bird_song_1	motor_label_A	test	13	342.674475797	1	327.195073362
-LSS_v2_123	123	random	gamepad	subject	George		1	67	1	67	1.2	label	right	A	guitar	electric	2	guitar	0	B	guitar_electric_2	guitar_label_B	test	14	346.624402192	1	362.019588822
-LSS_v2_123	123	random	gamepad	subject	George		1	104	1	104	1.0	label	left	B	phone	rotary	1	phone	0	A	phone_rotary_1	phone_label_A	test	15	350.307240981	1	304.649851983
-LSS_v2_123	123	random	gamepad	subject	George		1	192	0	48	1.2	label	left	A	bird	hawk	1	phone	0	A	bird_hawk_1	phone_label_A	test	16	354.207500606	1	324.101723381
-LSS_v2_123	123	random	gamepad	subject	George		1	155	0	11	0.8	label	left	A	motor	dirt	2	drum	0	A	motor_dirt_2	drum_label_A	test	17	357.698538245	1	318.203104078
-LSS_v2_123	123	random	gamepad	subject	George		1	59	1	59	1.2	label	left	A	motor	dirt	2	motor	0	A	motor_dirt_2	motor_label_A	test	18	361.623558435	1	322.447498096
-LSS_v2_123	123	random	gamepad	subject	George		1	200	0	56	1.2	label	left	A	phone	cell	1	dog	0	A	phone_cell_1	dog_label_A	test	19	365.473135964	1	279.995877296
-LSS_v2_123	123	random	gamepad	subject	George		1	263	0	119	1.0	label	right	B	motor	harley	2	guitar	0	B	motor_harley_2	guitar_label_B	test	20	369.264649481	1	405.788700213
-LSS_v2_123	123	random	gamepad	subject	George		1	254	0	110	1.0	label	right	B	dog	york	1	bird	0	B	dog_york_1	bird_label_B	test	21	373.02321517	1	383.896142361
-LSS_v2_123	123	random	gamepad	subject	George		1	22	1	22	0.8	label	right	A	motor	dirt	1	motor	0	B	motor_dirt_1	motor_label_B	test	22	376.539287371	1	334.36957153
-LSS_v2_123	123	random	gamepad	subject	George		1	57	1	57	1.2	label	left	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	test	23	380.390193594	1	275.468843873
-LSS_v2_123	123	random	gamepad	subject	George		1	259	0	115	1.0	label	right	B	guitar	acoustic	2	phone	0	A	guitar_acoustic_2	phone_label_A	test	24	384.103340428	1	330.833536922
-LSS_v2_123	123	random	gamepad	subject	George		1	270	0	126	1.2	label	left	B	guitar	acoustic	1	dog	0	B	guitar_acoustic_1	dog_label_B	test	25	388.039019615	1	307.134070667
-LSS_v2_123	123	random	gamepad	subject	George		1	103	1	103	1.0	label	left	B	guitar	acoustic	2	guitar	0	A	guitar_acoustic_2	guitar_label_A	test	26	391.738548539	1	326.737984899
-LSS_v2_123	123	random	gamepad	subject	George		1	256	0	112	1.0	label	right	B	drum	bongo	1	dog	0	A	drum_bongo_1	dog_label_A	test	27	395.456893635	1	338.501933729
-LSS_v2_123	123	random	gamepad	subject	George		1	227	0	83	0.8	label	left	B	motor	harley	2	bird	0	A	motor_harley_2	bird_label_A	test	28	398.946543044	1	320.071469643
-LSS_v2_123	123	random	gamepad	subject	George		1	195	0	51	1.2	label	left	A	dog	rott	2	motor	0	A	dog_rott_2	motor_label_A	test	29	402.822220394	1	297.528168652
-LSS_v2_123	123	random	gamepad	subject	George		1	106	1	106	1.0	label	left	B	motor	harley	1	motor	0	B	motor_harley_1	motor_label_B	test	30	406.471606574	1	273.361371132
-LSS_v2_123	123	random	gamepad	subject	George		1	90	1	90	0.8	label	right	B	guitar	acoustic	1	guitar	0	A	guitar_acoustic_1	guitar_label_A	test	31	410.031039131	1	297.434702399
-LSS_v2_123	123	random	gamepad	subject	George		1	217	0	73	0.8	label	left	B	bird	song	2	motor	0	B	bird_song_2	motor_label_B	test	32	413.504165172	1	280.050292611
-LSS_v2_123	123	random	gamepad	subject	George		1	125	1	125	1.2	label	left	B	drum	bongo	2	drum	0	B	drum_bongo_2	drum_label_B	test	33	417.38196728	1	302.064804826
-LSS_v2_123	123	random	gamepad	subject	George		1	48	1	48	1.2	label	left	A	bird	hawk	1	bird	0	B	bird_hawk_1	bird_label_B	test	34	421.262375241	1	298.23332699
-LSS_v2_123	123	random	gamepad	subject	George		1	4	1	4	0.8	label	left	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	test	35	424.753630861	1	308.961144648
-LSS_v2_123	123	random	gamepad	subject	George		1	280	0	136	1.2	label	right	B	drum	bongo	1	motor	0	B	drum_bongo_1	motor_label_B	test	36	428.654974631	1	309.487692663
-LSS_v2_123	123	random	gamepad	subject	George		1	197	0	53	1.2	label	left	A	drum	kit	2	dog	0	A	drum_kit_2	dog_label_A	test	37	432.565845561	1	328.729905072
-LSS_v2_123	123	random	gamepad	subject	George		1	179	0	35	1.0	label	left	A	motor	dirt	2	guitar	0	B	motor_dirt_2	guitar_label_B	test	38	436.279112109	1	326.595544815
-LSS_v2_123	123	random	gamepad	subject	George		1	204	0	60	1.2	label	right	A	bird	hawk	1	motor	0	B	bird_hawk_1	motor_label_B	test	39	440.270445351	1	366.740276688
-LSS_v2_123	123	random	gamepad	subject	George		1	278	0	134	1.2	label	right	B	dog	york	1	guitar	0	A	dog_york_1	guitar_label_A	test	40	444.23866041	1	388.887626235
-LSS_v2_123	123	random	gamepad	subject	George		1	62	1	62	1.2	label	right	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	test	41	448.12752419	1	323.024940444
-LSS_v2_123	123	random	gamepad	subject	George		1	203	0	59	1.2	label	left	A	motor	dirt	2	drum	0	B	motor_dirt_2	drum_label_B	test	42	452.045546891	1	343.91305584
-LSS_v2_123	123	random	gamepad	subject	George		1	49	1	49	1.2	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	test	43	455.977133408	1	354.392803623
-LSS_v2_123	123	random	gamepad	subject	George		1	269	0	125	1.2	label	left	B	drum	bongo	2	phone	0	B	drum_bongo_2	phone_label_B	test	44	459.91887222	1	287.112118909
-LSS_v2_123	123	random	gamepad	subject	George		1	148	0	4	0.8	label	left	A	drum	kit	1	dog	0	A	drum_kit_1	dog_label_A	test	45	463.438189174	1	328.303225222
-LSS_v2_123	123	random	gamepad	subject	George		1	3	1	3	0.8	label	left	A	dog	rott	2	dog	0	B	dog_rott_2	dog_label_B	test	46	466.934949703	1	330.989100621
-LSS_v2_123	123	random	gamepad	subject	George		1	116	1	116	1.0	label	right	B	phone	rotary	1	phone	0	B	phone_rotary_1	phone_label_B	test	47	470.669954205	1	347.783264471
-LSS_v2_123	123	random	gamepad	subject	George		1	221	0	77	0.8	label	left	B	drum	bongo	2	dog	0	B	drum_bongo_2	dog_label_B	test	48	474.216745766	1	300.699300715
-LSS_v2_123	123	random	gamepad	subject	George		1	218	0	74	0.8	label	left	B	dog	york	1	bird	0	A	dog_york_1	bird_label_A	test	49	477.70979101	1	308.702511829
-LSS_v2_123	123	random	gamepad	subject	George		1	28	1	28	1.0	label	left	A	drum	kit	1	drum	0	B	drum_kit_1	drum_label_B	test	50	481.392555538	1	310.19797246
-LSS_v2_123	123	random	gamepad	subject	George		1	247	0	103	1.0	label	left	B	guitar	acoustic	2	motor	0	B	guitar_acoustic_2	motor_label_B	test	51	485.085159314	1	309.416952776
-LSS_v2_123	123	random	gamepad	subject	George		1	137	1	137	1.2	label	right	B	drum	bongo	2	drum	0	B	drum_bongo_2	drum_label_B	test	52	488.95907841	1	265.777477878
-LSS_v2_123	123	random	gamepad	subject	George		1	193	0	49	1.2	label	left	A	bird	hawk	2	dog	0	A	bird_hawk_2	dog_label_A	test	53	492.869548267	1	333.291508257
-LSS_v2_123	123	random	gamepad	subject	George		1	171	0	27	1.0	label	left	A	dog	rott	2	phone	0	A	dog_rott_2	phone_label_A	test	54	496.591833351	1	343.586243922
-LSS_v2_123	123	random	gamepad	subject	George		1	19	1	19	0.8	label	right	A	guitar	electric	2	guitar	0	A	guitar_electric_2	guitar_label_A	test	55	500.101125405	1	334.444152424
-LSS_v2_123	123	random	gamepad	subject	George		1	112	1	112	1.0	label	right	B	drum	bongo	1	drum	0	A	drum_bongo_1	drum_label_A	test	56	503.833246536	1	358.275815845
-LSS_v2_123	123	random	gamepad	subject	George		1	233	0	89	0.8	label	right	B	drum	bongo	2	bird	0	A	drum_bongo_2	bird_label_A	test	57	507.3499013	1	341.196451802
-LSS_v2_123	123	random	gamepad	subject	George		1	246	0	102	1.0	label	left	B	guitar	acoustic	1	drum	0	B	guitar_acoustic_1	drum_label_B	test	58	511.196361152	1	407.162526622
-LSS_v2_123	123	random	gamepad	subject	George		1	118	1	118	1.0	label	right	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	test	59	514.93412163	1	301.03091395
-LSS_v2_123	123	random	gamepad	subject	George		1	272	0	128	1.2	label	left	B	phone	rotary	1	motor	0	B	phone_rotary_1	motor_label_B	test	60	518.884862334	1	351.7850301
-LSS_v2_123	123	random	gamepad	subject	George		1	146	0	2	0.8	label	left	A	dog	rott	1	phone	0	B	dog_rott_1	phone_label_B	test	61	522.390802405	1	331.477878033
-LSS_v2_123	123	random	gamepad	subject	George		1	54	1	54	1.2	label	left	A	guitar	electric	1	guitar	0	B	guitar_electric_1	guitar_label_B	test	62	526.285321535	1	319.574369933
-LSS_v2_123	123	random	gamepad	subject	George		1	24	1	24	1.0	label	left	A	bird	hawk	1	bird	0	A	bird_hawk_1	bird_label_A	test	63	529.992877357	1	331.495163031
-LSS_v2_123	123	random	gamepad	subject	George		1	211	0	67	1.2	label	right	A	guitar	electric	2	dog	0	A	guitar_electric_2	dog_label_A	test	64	533.89007468	1	327.30358385
-LSS_v2_123	123	random	gamepad	subject	George		1	175	0	31	1.0	label	left	A	guitar	electric	2	bird	0	A	guitar_electric_2	bird_label_A	test	65	537.57341537	1	307.514657732
-LSS_v2_123	123	random	gamepad	subject	George		1	182	0	38	1.0	label	right	A	dog	rott	1	motor	0	A	dog_rott_1	motor_label_A	test	66	541.281354339	1	325.012699584
-LSS_v2_123	123	random	gamepad	subject	George		1	185	0	41	1.0	label	right	A	drum	kit	2	bird	0	B	drum_kit_2	bird_label_B	test	67	544.976838285	1	321.854691254
-LSS_v2_123	123	random	gamepad	subject	George		1	46	1	46	1.0	label	right	A	motor	dirt	1	motor	0	A	motor_dirt_1	motor_label_A	test	68	548.702168386	1	320.193424006
-LSS_v2_123	123	random	gamepad	subject	George		1	239	0	95	0.8	label	right	B	motor	harley	2	guitar	0	B	motor_harley_2	guitar_label_B	test	69	552.255816596	1	378.192137927
-LSS_v2_123	123	random	gamepad	subject	George		1	163	0	19	0.8	label	right	A	guitar	electric	2	drum	0	B	guitar_electric_2	drum_label_B	test	70	555.764356758	1	332.140464452
-LSS_v2_123	123	random	gamepad	subject	George		1	214	0	70	1.2	label	right	A	motor	dirt	1	phone	0	A	motor_dirt_1	phone_label_A	test	71	559.697138811	1	331.4599531
-LSS_v2_123	123	random	gamepad	subject	George		1	122	1	122	1.2	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	test	72	563.588912529	1	317.050139885
-LSS_v2_123	123	random	gamepad	subject	George		1	36	1	36	1.0	label	right	A	bird	hawk	1	bird	0	B	bird_hawk_1	bird_label_B	test	73	567.325536367	1	336.638049572
-LSS_v2_123	123	random	gamepad	subject	George		1	234	0	90	0.8	label	right	B	guitar	acoustic	1	drum	0	A	guitar_acoustic_1	drum_label_A	test	74	570.854918872	1	347.099552164
-LSS_v2_123	123	random	gamepad	subject	George		1	177	0	33	1.0	label	left	A	phone	cell	2	bird	0	B	phone_cell_2	bird_label_B	test	75	574.588130549	1	334.732553572
-LSS_v2_123	123	random	gamepad	subject	George		1	147	0	3	0.8	label	left	A	dog	rott	2	bird	0	A	dog_rott_2	bird_label_A	test	76	578.108616152	1	337.081054226
-LSS_v2_123	123	random	gamepad	subject	George		1	151	0	7	0.8	label	left	A	guitar	electric	2	phone	0	B	guitar_electric_2	phone_label_B	test	77	581.604634392	1	317.619580077
-LSS_v2_123	123	random	gamepad	subject	George		1	72	1	72	0.8	label	left	B	bird	song	1	bird	0	B	bird_song_1	bird_label_B	test	78	585.084965979	1	296.536529786
-LSS_v2_123	123	random	gamepad	subject	George		1	50	1	50	1.2	label	left	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	test	79	588.981219677	1	317.556202295
-LSS_v2_123	123	random	gamepad	subject	George		1	253	0	109	1.0	label	right	B	bird	song	2	motor	0	B	bird_song_2	motor_label_B	test	80	592.670758591	1	291.707651457
-LSS_v2_123	123	random	gamepad	subject	George		1	66	1	66	1.2	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	test	81	596.605050829	1	359.672368737
-LSS_v2_123	123	random	gamepad	subject	George		1	98	1	98	1.0	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	test	82	600.292718496	1	305.439513992
-LSS_v2_123	123	random	gamepad	subject	George		1	230	0	86	0.8	label	right	B	dog	york	1	bird	0	A	dog_york_1	bird_label_A	test	83	603.837325123	1	320.308016264
-LSS_v2_123	123	random	gamepad	subject	George		1	128	1	128	1.2	label	left	B	phone	rotary	1	phone	0	A	phone_rotary_1	phone_label_A	test	84	607.72817154	1	316.789906588
-LSS_v2_123	123	random	gamepad	subject	George		1	127	1	127	1.2	label	left	B	guitar	acoustic	2	guitar	0	B	guitar_acoustic_2	guitar_label_B	test	85	611.620317843	1	317.18553789
-LSS_v2_123	123	random	gamepad	subject	George		1	224	0	80	0.8	label	left	B	phone	rotary	1	drum	0	B	phone_rotary_1	drum_label_B	test	86	615.136205992	1	344.51930644
-LSS_v2_123	123	random	gamepad	subject	George		1	109	1	109	1.0	label	right	B	bird	song	2	bird	0	A	bird_song_2	bird_label_A	test	87	618.877904537	1	324.325146154
-LSS_v2_123	123	random	gamepad	subject	George		1	69	1	69	1.2	label	right	A	phone	cell	2	phone	0	B	phone_cell_2	phone_label_B	test	88	622.877685595	1	424.073843402
-LSS_v2_123	123	random	gamepad	subject	George		1	73	1	73	0.8	label	left	B	bird	song	2	bird	0	A	bird_song_2	bird_label_A	test	89	626.64416263	1	579.827413894
-LSS_v2_123	123	random	gamepad	subject	George		1	82	1	82	0.8	label	left	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	test	90	630.20420848	1	343.214619323
-LSS_v2_123	123	random	gamepad	subject	George		1	38	1	38	1.0	label	right	A	dog	rott	1	dog	0	B	dog_rott_1	dog_label_B	test	91	633.918852375	1	303.494967055
-LSS_v2_123	123	random	gamepad	subject	George		1	212	0	68	1.2	label	right	A	phone	cell	1	bird	0	B	phone_cell_1	bird_label_B	test	92	637.81303413	1	319.060945418
-LSS_v2_123	123	random	gamepad	subject	George		1	124	1	124	1.2	label	left	B	drum	bongo	1	drum	0	A	drum_bongo_1	drum_label_A	test	93	641.693904942	1	305.610442185
-LSS_v2_123	123	random	gamepad	subject	George		1	168	0	24	1.0	label	left	A	bird	hawk	1	guitar	0	A	bird_hawk_1	guitar_label_A	test	94	645.41193955	1	331.706102355
-LSS_v2_123	123	random	gamepad	subject	George		1	165	0	21	0.8	label	right	A	phone	cell	2	drum	0	A	phone_cell_2	drum_label_A	test	95	649.036669194	1	443.111518398
-LSS_v2_123	123	random	gamepad	subject	George		1	14	1	14	0.8	label	right	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	test	96	652.576001378	1	358.571578981
-LSS_v2_123	123	random	gamepad	subject	George		1	153	0	9	0.8	label	left	A	phone	cell	2	motor	0	B	phone_cell_2	motor_label_B	test	97	656.117699667	1	314.740370144
-LSS_v2_123	123	random	gamepad	subject	George		1	1	1	1	0.8	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	test	98	659.636296417	1	342.980313464
-LSS_v2_123	123	random	gamepad	subject	George		1	102	1	102	1.0	label	left	B	guitar	acoustic	1	guitar	0	B	guitar_acoustic_1	guitar_label_B	test	99	663.35892976	1	347.209342988
-LSS_v2_123	123	random	gamepad	subject	George		1	26	1	26	1.0	label	left	A	dog	rott	1	dog	0	B	dog_rott_1	dog_label_B	test	100	667.075953524	1	270.121419686
-LSS_v2_123	123	random	gamepad	subject	George		1	180	0	36	1.0	label	right	A	bird	hawk	1	drum	0	A	bird_hawk_1	drum_label_A	test	101	670.775228936	1	305.391500471
-LSS_v2_123	123	random	gamepad	subject	George		1	275	0	131	1.2	label	left	B	motor	harley	2	bird	0	A	motor_harley_2	bird_label_A	test	102	674.708340042	1	294.484112528
-LSS_v2_123	123	random	gamepad	subject	George		1	110	1	110	1.0	label	right	B	dog	york	1	dog	0	B	dog_york_1	dog_label_B	test	103	678.522942293	1	367.253060918
-LSS_v2_123	123	random	gamepad	subject	George		1	21	1	21	0.8	label	right	A	phone	cell	2	phone	0	B	phone_cell_2	phone_label_B	test	104	682.091257669	1	389.840534423
-LSS_v2_123	123	random	gamepad	subject	George		1	158	0	14	0.8	label	right	A	dog	rott	1	bird	0	B	dog_rott_1	bird_label_B	test	105	685.660371669	1	388.553132303
-LSS_v2_123	123	random	gamepad	subject	George		1	173	0	29	1.0	label	left	A	drum	kit	2	dog	0	B	drum_kit_2	dog_label_B	test	106	689.316099793	1	282.769777463
-LSS_v2_123	123	random	gamepad	subject	George		1	209	0	65	1.2	label	right	A	drum	kit	2	bird	0	B	drum_kit_2	bird_label_B	test	107	693.215722438	1	318.133324501
-LSS_v2_123	123	random	gamepad	subject	George		1	45	1	45	1.0	label	right	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	test	108	696.965745885	1	364.702903549
-LSS_v2_123	123	random	gamepad	subject	George		1	265	0	121	1.2	label	left	B	bird	song	2	phone	0	B	bird_song_2	phone_label_B	test	109	700.923901795	1	331.991622574
-LSS_v2_123	123	random	gamepad	subject	George		1	41	1	41	1.0	label	right	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	test	110	704.815142243	1	521.702264436
-LSS_v2_123	123	random	gamepad	subject	George		1	245	0	101	1.0	label	left	B	drum	bongo	2	bird	0	B	drum_bongo_2	bird_label_B	test	111	708.523516855	1	333.146827528
-LSS_v2_123	123	random	gamepad	subject	George		1	208	0	64	1.2	label	right	A	drum	kit	1	phone	0	A	drum_kit_1	phone_label_A	test	112	712.484725464	1	369.0526071
-LSS_v2_123	123	random	gamepad	subject	George		1	85	1	85	0.8	label	right	B	bird	song	2	bird	0	B	bird_song_2	bird_label_B	test	113	716.027912811	1	371.137353592
-LSS_v2_123	123	random	gamepad	subject	George		1	74	1	74	0.8	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	test	114	719.564709882	1	354.326224886
-LSS_v2_123	123	random	gamepad	subject	George		1	274	0	130	1.2	label	left	B	motor	harley	1	drum	0	A	motor_harley_1	drum_label_A	test	115	723.483759432	1	343.746289029
-LSS_v2_123	123	random	gamepad	subject	George		1	108	1	108	1.0	label	right	B	bird	song	1	bird	0	A	bird_song_1	bird_label_A	test	116	727.2310141	1	365.930128843
-LSS_v2_123	123	random	gamepad	subject	George		1	8	1	8	0.8	label	left	A	phone	cell	1	phone	0	B	phone_cell_1	phone_label_B	test	117	730.772497608	1	365.102696116
-LSS_v2_123	123	random	gamepad	subject	George		1	273	0	129	1.2	label	left	B	phone	rotary	2	guitar	0	B	phone_rotary_2	guitar_label_B	test	118	734.731234802	1	375.826352509
-LSS_v2_123	123	random	gamepad	subject	George		1	40	1	40	1.0	label	right	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	test	119	738.522444553	1	412.572048255
-LSS_v2_123	123	random	gamepad	subject	George		1	284	0	140	1.2	label	right	B	phone	rotary	1	drum	0	B	phone_rotary_1	drum_label_B	test	120	742.45502687	1	362.176753115
-LSS_v2_123	123	random	gamepad	subject	George		1	140	1	140	1.2	label	right	B	phone	rotary	1	phone	0	B	phone_rotary_1	phone_label_B	test	121	746.436265113	1	405.331291608
-LSS_v2_123	123	random	gamepad	subject	George		1	94	1	94	0.8	label	right	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	test	122	750.004877212	1	373.554993537
-LSS_v2_123	123	random	gamepad	subject	George		1	271	0	127	1.2	label	left	B	guitar	acoustic	2	dog	0	A	guitar_acoustic_2	dog_label_A	test	123	753.931182563	1	277.211093926
-LSS_v2_123	123	random	gamepad	subject	George		1	132	1	132	1.2	label	right	B	bird	song	1	bird	0	A	bird_song_1	bird_label_A	test	124	757.851924749	1	338.576194714
-LSS_v2_123	123	random	gamepad	subject	George		1	188	0	44	1.0	label	right	A	phone	cell	1	drum	0	B	phone_cell_1	drum_label_B	test	125	761.58002587	1	324.947401183
-LSS_v2_123	123	random	gamepad	subject	George		1	23	1	23	0.8	label	right	A	motor	dirt	2	motor	0	A	motor_dirt_2	motor_label_A	test	126	765.095610253	1	332.335079322
-LSS_v2_123	123	random	gamepad	subject	George		1	159	0	15	0.8	label	right	A	dog	rott	2	guitar	0	A	dog_rott_2	guitar_label_A	test	127	768.604057269	1	332.288986305
-LSS_v2_123	123	random	gamepad	subject	George		1	134	1	134	1.2	label	right	B	dog	york	1	dog	0	B	dog_york_1	dog_label_B	test	128	772.562803425	1	368.357691681
-LSS_v2_123	123	random	gamepad	subject	George		1	244	0	100	1.0	label	left	B	drum	bongo	1	phone	0	A	drum_bongo_1	phone_label_A	test	129	776.236721945	1	302.980582346
-LSS_v2_123	123	random	gamepad	subject	George		1	42	1	42	1.0	label	right	A	guitar	electric	1	guitar	0	B	guitar_electric_1	guitar_label_B	test	130	779.955928084	1	343.309046002
-LSS_v2_123	123	random	gamepad	subject	George		1	88	1	88	0.8	label	right	B	drum	bongo	1	drum	0	B	drum_bongo_1	drum_label_B	test	131	783.5199104	1	373.768493533
-LSS_v2_123	123	random	gamepad	subject	George		1	81	1	81	0.8	label	left	B	phone	rotary	2	phone	0	A	phone_rotary_2	phone_label_A	test	132	787.050795088	1	347.385072382
-LSS_v2_123	123	random	gamepad	subject	George		1	201	0	57	1.2	label	left	A	phone	cell	2	drum	0	A	phone_cell_2	drum_label_A	test	133	791.027965946	1	398.515294306
-LSS_v2_123	123	random	gamepad	subject	George		1	143	1	143	1.2	label	right	B	motor	harley	2	motor	0	B	motor_harley_2	motor_label_B	test	134	794.927478481	1	328.542012372
-LSS_v2_123	123	random	gamepad	subject	George		1	220	0	76	0.8	label	left	B	drum	bongo	1	phone	0	A	drum_bongo_1	phone_label_A	test	135	798.46071423	1	326.101005659
-LSS_v2_123	123	random	gamepad	subject	George		1	53	1	53	1.2	label	left	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	test	136	802.570530079	1	474.83820247
-LSS_v2_123	123	random	gamepad	subject	George		1	139	1	139	1.2	label	right	B	guitar	acoustic	2	guitar	0	B	guitar_acoustic_2	guitar_label_B	test	137	806.403186368	1	259.05974838
-LSS_v2_123	123	random	gamepad	subject	George		1	252	0	108	1.0	label	right	B	bird	song	1	drum	0	B	bird_song_1	drum_label_B	test	138	810.140505761	1	324.668602785
-LSS_v2_123	123	random	gamepad	subject	George		1	194	0	50	1.2	label	left	A	dog	rott	1	bird	0	B	dog_rott_1	bird_label_B	test	139	814.051732631	1	329.780440661
-LSS_v2_123	123	random	gamepad	subject	George		1	87	1	87	0.8	label	right	B	dog	york	2	dog	0	B	dog_york_2	dog_label_B	test	140	817.676661371	1	448.892664514
-LSS_v2_123	123	random	gamepad	subject	George		1	16	1	16	0.8	label	right	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	test	141	821.262360837	1	371.456483263
-LSS_v2_123	123	random	gamepad	subject	George		1	47	1	47	1.0	label	right	A	motor	dirt	2	motor	0	B	motor_dirt_2	motor_label_B	test	142	824.98442954	1	344.377826666
-LSS_v2_123	123	random	gamepad	subject	George		1	100	1	100	1.0	label	left	B	drum	bongo	1	drum	1	B	drum_bongo_1	drum_label_B	test	143	831.002934906	1	298.826133832
-LSS_v2_123	123	random	gamepad	subject	George		1	198	0	54	1.2	label	left	A	guitar	electric	1	dog	1	A	guitar_electric_1	dog_label_A	test	144	834.958900119	1	378.386752564
-LSS_v2_123	123	random	gamepad	subject	George		1	55	1	55	1.2	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	test	145	838.850706487	1	284.356783843
-LSS_v2_123	123	random	gamepad	subject	George		1	32	1	32	1.0	label	left	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	test	146	842.558577917	1	302.906321478
-LSS_v2_123	123	random	gamepad	subject	George		1	181	0	37	1.0	label	right	A	bird	hawk	2	dog	1	B	bird_hawk_2	dog_label_B	test	147	846.291977487	1	346.898215474
-LSS_v2_123	123	random	gamepad	subject	George		1	71	1	71	1.2	label	right	A	motor	dirt	2	motor	1	A	motor_dirt_2	motor_label_A	test	148	850.250073861	1	301.230009994
-LSS_v2_123	123	random	gamepad	subject	George		1	157	0	13	0.8	label	right	A	bird	hawk	2	drum	1	A	bird_hawk_2	drum_label_A	test	149	853.791333306	1	353.418449522
-LSS_v2_123	123	random	gamepad	subject	George		1	282	0	138	1.2	label	right	B	guitar	acoustic	1	motor	1	A	guitar_acoustic_1	motor_label_A	test	150	857.708033716	1	337.822382688
-LSS_v2_123	123	random	gamepad	subject	George		1	183	0	39	1.0	label	right	A	dog	rott	2	bird	1	B	dog_rott_2	bird_label_B	test	151	861.582713026	1	487.357884063
-LSS_v2_123	123	random	gamepad	subject	George		1	52	1	52	1.2	label	left	A	drum	kit	1	drum	1	A	drum_kit_1	drum_label_A	test	152	865.515968492	1	345.936985104
-LSS_v2_123	123	random	gamepad	subject	George		1	70	1	70	1.2	label	right	A	motor	dirt	1	motor	1	B	motor_dirt_1	motor_label_B	test	153	869.419259689	1	300.999545143
-LSS_v2_123	123	random	gamepad	subject	George		1	99	1	99	1.0	label	left	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	test	154	873.132071069	1	335.763243493
-LSS_v2_123	123	random	gamepad	subject	George		1	238	0	94	0.8	label	right	B	motor	harley	1	dog	1	B	motor_harley_1	dog_label_B	test	155	876.683043647	1	342.313886038
-LSS_v2_123	123	random	gamepad	subject	George		1	219	0	75	0.8	label	left	B	dog	york	2	phone	1	B	dog_york_2	phone_label_B	test	156	880.306996752	1	449.178825016
-LSS_v2_123	123	random	gamepad	subject	George		1	27	1	27	1.0	label	left	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	test	157	884.074474068	1	368.390020682
-LSS_v2_123	123	random	gamepad	subject	George		1	229	0	85	0.8	label	right	B	bird	song	2	motor	1	B	bird_song_2	motor_label_B	test	158	887.573017498	1	328.363402048
-LSS_v2_123	123	random	gamepad	subject	George		1	17	1	17	0.8	label	right	A	drum	kit	2	drum	1	A	drum_kit_2	drum_label_A	test	159	891.098278524	1	328.093886259
-LSS_v2_123	123	random	gamepad	subject	George		1	161	0	17	0.8	label	right	A	drum	kit	2	phone	1	A	drum_kit_2	phone_label_A	test	160	894.589354894	1	321.73977897
-LSS_v2_123	123	random	gamepad	subject	George		1	156	0	12	0.8	label	right	A	bird	hawk	1	dog	1	A	bird_hawk_1	dog_label_A	test	161	898.074664842	1	307.825785247
-LSS_v2_123	123	random	gamepad	subject	George		1	60	1	60	1.2	label	right	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	test	162	902.098078788	1	418.8006802
-LSS_v2_123	123	random	gamepad	subject	George		1	258	0	114	1.0	label	right	B	guitar	acoustic	1	phone	1	B	guitar_acoustic_1	phone_label_B	test	163	905.766717422	1	289.414206403
-LSS_v2_123	123	random	gamepad	subject	George		1	83	1	83	0.8	label	left	B	motor	harley	2	motor	1	B	motor_harley_2	motor_label_B	test	164	909.322269528	1	357.591143227
-LSS_v2_123	123	random	gamepad	subject	George		1	76	1	76	0.8	label	left	B	drum	bongo	1	drum	1	A	drum_bongo_1	drum_label_A	test	165	912.905356099	1	307.962463703
-LSS_v2_123	123	random	gamepad	subject	George		1	111	1	111	1.0	label	right	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	test	166	916.588283872	1	314.023048384
-LSS_v2_123	123	random	gamepad	subject	George		1	2	1	2	0.8	label	left	A	dog	rott	1	dog	1	B	dog_rott_1	dog_label_B	test	167	920.074301219	1	310.682908865
-LSS_v2_123	123	random	gamepad	subject	George		1	144	0	0	0.8	label	left	A	bird	hawk	1	phone	1	A	bird_hawk_1	phone_label_A	test	168	923.613204162	1	317.247955478
-LSS_v2_123	123	random	gamepad	subject	George		1	129	1	129	1.2	label	left	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	test	169	927.529664824	1	341.918254853
-LSS_v2_123	123	random	gamepad	subject	George		1	255	0	111	1.0	label	right	B	dog	york	2	motor	1	A	dog_york_2	motor_label_A	test	170	931.282227545	1	323.755385936
-LSS_v2_123	123	random	gamepad	subject	George		1	84	1	84	0.8	label	right	B	bird	song	1	bird	1	B	bird_song_1	bird_label_B	test	171	934.804328321	1	300.16411026
-LSS_v2_123	123	random	gamepad	subject	George		1	154	0	10	0.8	label	left	A	motor	dirt	1	guitar	1	B	motor_dirt_1	guitar_label_B	test	172	938.322115885	1	336.955899023
-LSS_v2_123	123	random	gamepad	subject	George		1	281	0	137	1.2	label	right	B	drum	bongo	2	dog	1	B	drum_bongo_2	dog_label_B	test	173	942.221569523	1	330.654606456
-LSS_v2_123	123	random	gamepad	subject	George		1	196	0	52	1.2	label	left	A	drum	kit	1	motor	1	A	drum_kit_1	motor_label_A	test	174	946.128536955	1	323.81908386
-LSS_v2_123	123	random	gamepad	subject	George		1	97	1	97	1.0	label	left	B	bird	song	2	bird	1	B	bird_song_2	bird_label_B	test	175	949.878379551	1	366.32095871
-LSS_v2_123	123	random	gamepad	subject	George		1	105	1	105	1.0	label	left	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	test	176	953.595123876	1	336.951417732
-LSS_v2_123	123	random	gamepad	subject	George		1	120	1	120	1.2	label	left	B	bird	song	1	bird	1	A	bird_song_1	bird_label_A	test	177	957.519752916	1	355.811442598
-LSS_v2_123	123	random	gamepad	subject	George		1	242	0	98	1.0	label	left	B	dog	york	1	phone	1	A	dog_york_1	phone_label_A	test	178	961.194758462	1	296.220280929
-LSS_v2_123	123	random	gamepad	subject	George		1	164	0	20	0.8	label	right	A	phone	cell	1	bird	1	B	phone_cell_1	bird_label_B	test	179	964.762319705	1	344.602849917
-LSS_v2_123	123	random	gamepad	subject	George		1	79	1	79	0.8	label	left	B	guitar	acoustic	2	guitar	1	B	guitar_acoustic_2	guitar_label_B	test	180	968.219445086	1	270.451752585
-LSS_v2_123	123	random	gamepad	subject	George		1	142	1	142	1.2	label	right	B	motor	harley	1	motor	1	B	motor_harley_1	motor_label_B	test	181	972.114205884	1	317.196421092
-LSS_v2_123	123	random	gamepad	subject	George		1	63	1	63	1.2	label	right	A	dog	rott	2	dog	1	B	dog_rott_2	dog_label_B	test	182	976.027384343	1	340.495774639
-LSS_v2_123	123	random	gamepad	subject	George		1	178	0	34	1.0	label	left	A	motor	dirt	1	guitar	1	A	motor_dirt_1	guitar_label_A	test	183	979.6936159	1	294.606386917
-LSS_v2_123	123	random	gamepad	subject	George		1	64	1	64	1.2	label	right	A	drum	kit	1	drum	1	B	drum_kit_1	drum_label_B	test	184	983.651758046	1	380.232391763
-LSS_v2_123	123	random	gamepad	subject	George		1	222	0	78	0.8	label	left	B	guitar	acoustic	1	drum	1	B	guitar_acoustic_1	drum_label_B	test	185	987.169463027	1	332.720147562
-LSS_v2_123	123	random	gamepad	subject	George		1	191	0	47	1.0	label	right	A	motor	dirt	2	guitar	1	B	motor_dirt_2	guitar_label_B	test	186	990.859715421	1	322.998052929
-LSS_v2_123	123	random	gamepad	subject	George		1	249	0	105	1.0	label	left	B	phone	rotary	2	motor	1	A	phone_rotary_2	motor_label_A	test	187	994.569518274	1	334.361889283
-LSS_v2_123	123	random	gamepad	subject	George		1	160	0	16	0.8	label	right	A	drum	kit	1	phone	1	B	drum_kit_1	phone_label_B	test	188	998.067705124	1	321.903024917
-LSS_v2_123	123	random	gamepad	subject	George		1	187	0	43	1.0	label	right	A	guitar	electric	2	bird	1	A	guitar_electric_2	bird_label_A	test	189	1001.82910169	1	345.802867436
-LSS_v2_123	123	random	gamepad	subject	George		1	266	0	122	1.2	label	left	B	dog	york	1	phone	1	B	dog_york_1	phone_label_B	test	190	1005.71755671	1	300.942569156
-LSS_v2_123	123	random	gamepad	subject	George		1	279	0	135	1.2	label	right	B	dog	york	2	phone	1	A	dog_york_2	phone_label_A	test	191	1009.59217937	1	288.891179254
-LSS_v2_123	123	random	gamepad	subject	George		1	172	0	28	1.0	label	left	A	drum	kit	1	motor	1	B	drum_kit_1	motor_label_B	test	192	1013.33374155	1	305.909726303
-LSS_v2_123	123	random	gamepad	subject	George		1	34	1	34	1.0	label	left	A	motor	dirt	1	motor	1	A	motor_dirt_1	motor_label_A	test	193	1017.05037321	1	314.963473007
-LSS_v2_123	123	random	gamepad	subject	George		1	145	0	1	0.8	label	left	A	bird	hawk	2	dog	1	A	bird_hawk_2	dog_label_A	test	194	1020.58358559	1	334.421105916
-LSS_v2_123	123	random	gamepad	subject	George		1	25	1	25	1.0	label	left	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	test	195	1024.25839812	1	293.956284062
-LSS_v2_123	123	random	gamepad	subject	George		1	174	0	30	1.0	label	left	A	guitar	electric	1	phone	1	A	guitar_electric_1	phone_label_A	test	196	1027.94128845	1	311.770894914
-LSS_v2_123	123	random	gamepad	subject	George		1	287	0	143	1.2	label	right	B	motor	harley	2	bird	1	A	motor_harley_2	bird_label_A	test	197	1031.90667391	1	380.514070974
-LSS_v2_123	123	random	gamepad	subject	George		1	31	1	31	1.0	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	test	198	1035.58515531	1	293.769671465
-LSS_v2_123	123	random	gamepad	subject	George		1	121	1	121	1.2	label	left	B	bird	song	2	bird	1	B	bird_song_2	bird_label_B	test	199	1039.48262695	1	315.30756969
-LSS_v2_123	123	random	gamepad	subject	George		1	56	1	56	1.2	label	left	A	phone	cell	1	phone	1	A	phone_cell_1	phone_label_A	test	200	1043.37632153	1	293.137813802
-LSS_v2_123	123	random	gamepad	subject	George		1	7	1	7	0.8	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	test	201	1046.93750594	1	388.268572162
-LSS_v2_123	123	random	gamepad	subject	George		1	184	0	40	1.0	label	right	A	drum	kit	1	motor	1	A	drum_kit_1	motor_label_A	test	202	1050.69875719	1	381.302772788
-LSS_v2_123	123	random	gamepad	subject	George		1	277	0	133	1.2	label	right	B	bird	song	2	dog	1	A	bird_song_2	dog_label_A	test	203	1054.63320627	1	356.906790636
-LSS_v2_123	123	random	gamepad	subject	George		1	20	1	20	0.8	label	right	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	test	204	1058.12315752	1	322.368115652
-LSS_v2_123	123	random	gamepad	subject	George		1	114	1	114	1.0	label	right	B	guitar	acoustic	1	guitar	1	A	guitar_acoustic_1	guitar_label_A	test	205	1061.84160249	1	342.339173076
-LSS_v2_123	123	random	gamepad	subject	George		1	207	0	63	1.2	label	right	A	dog	rott	2	bird	1	B	dog_rott_2	bird_label_B	test	206	1065.73116054	1	280.496498104
-LSS_v2_123	123	random	gamepad	subject	George		1	243	0	99	1.0	label	left	B	dog	york	2	drum	1	A	dog_york_2	drum_label_A	test	207	1069.45684914	1	343.286319519
-LSS_v2_123	123	random	gamepad	subject	George		1	141	1	141	1.2	label	right	B	phone	rotary	2	phone	1	A	phone_rotary_2	phone_label_A	test	208	1073.42513398	1	360.492119216
-LSS_v2_123	123	random	gamepad	subject	George		1	162	0	18	0.8	label	right	A	guitar	electric	1	drum	1	B	guitar_electric_1	drum_label_B	test	209	1076.92253757	1	315.152326017
-LSS_v2_123	123	random	gamepad	subject	George		1	13	1	13	0.8	label	right	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	test	210	1080.44145281	1	326.66596456
-LSS_v2_123	123	random	gamepad	subject	George		1	149	0	5	0.8	label	left	A	drum	kit	2	motor	1	B	drum_kit_2	motor_label_B	test	211	1083.92221972	1	297.900433536
-LSS_v2_123	123	random	gamepad	subject	George		1	6	1	6	0.8	label	left	A	guitar	electric	1	guitar	1	A	guitar_electric_1	guitar_label_A	test	212	1087.46432965	1	364.106255816
-LSS_v2_123	123	random	gamepad	subject	George		1	189	0	45	1.0	label	right	A	phone	cell	2	bird	1	B	phone_cell_2	bird_label_B	test	213	1091.21697079	1	327.927439474
-LSS_v2_123	123	random	gamepad	subject	George		1	176	0	32	1.0	label	left	A	phone	cell	1	dog	1	B	phone_cell_1	dog_label_B	test	214	1094.90498287	1	315.302448231
-LSS_v2_123	123	random	gamepad	subject	George		1	186	0	42	1.0	label	right	A	guitar	electric	1	drum	1	B	guitar_electric_1	drum_label_B	test	215	1098.61289784	1	326.024184003
-LSS_v2_123	123	random	gamepad	subject	George		1	15	1	15	0.8	label	right	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	test	216	1102.15467455	1	331.522690714
-LSS_v2_123	123	random	gamepad	subject	George		1	283	0	139	1.2	label	right	B	guitar	acoustic	2	drum	1	A	guitar_acoustic_2	drum_label_A	test	217	1106.2795039	1	551.727029728
-LSS_v2_123	123	random	gamepad	subject	George		1	43	1	43	1.0	label	right	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	test	218	1109.97089613	1	312.012242735
-LSS_v2_123	123	random	gamepad	subject	George		1	107	1	107	1.0	label	left	B	motor	harley	2	motor	1	B	motor_harley_2	motor_label_B	test	219	1113.88859394	1	421.276256558
-LSS_v2_123	123	random	gamepad	subject	George		1	257	0	113	1.0	label	right	B	drum	bongo	2	dog	1	B	drum_bongo_2	dog_label_B	test	220	1117.61200671	1	348.479780369
-LSS_v2_123	123	random	gamepad	subject	George		1	232	0	88	0.8	label	right	B	drum	bongo	1	bird	1	A	drum_bongo_1	bird_label_A	test	221	1121.16208431	1	327.673928114
-LSS_v2_123	123	random	gamepad	subject	George		1	205	0	61	1.2	label	right	A	bird	hawk	2	dog	1	B	bird_hawk_2	dog_label_B	test	222	1125.08061532	1	340.645576827
-LSS_v2_123	123	random	gamepad	subject	George		1	68	1	68	1.2	label	right	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	test	223	1128.9783059	1	314.757334883
-LSS_v2_123	123	random	gamepad	subject	George		1	51	1	51	1.2	label	left	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	test	224	1132.87105173	1	313.911977224
-LSS_v2_123	123	random	gamepad	subject	George		1	37	1	37	1.0	label	right	A	bird	hawk	2	bird	1	A	bird_hawk_2	bird_label_A	test	225	1136.56966359	1	323.799878475
-LSS_v2_123	123	random	gamepad	subject	George		1	231	0	87	0.8	label	right	B	dog	york	2	drum	1	B	dog_york_2	drum_label_B	test	226	1140.16949824	1	361.905316706
-LSS_v2_123	123	random	gamepad	subject	George		1	39	1	39	1.0	label	right	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	test	227	1143.92026653	1	351.25432082
-LSS_v2_123	123	random	gamepad	subject	George		1	138	1	138	1.2	label	right	B	guitar	acoustic	1	guitar	1	B	guitar_acoustic_1	guitar_label_B	test	228	1147.77746316	1	280.028526438
-LSS_v2_123	123	random	gamepad	subject	George		1	170	0	26	1.0	label	left	A	dog	rott	1	bird	1	B	dog_rott_1	bird_label_B	test	229	1151.46035765	1	309.811943909
-LSS_v2_123	123	random	gamepad	subject	George		1	10	1	10	0.8	label	left	A	motor	dirt	1	motor	1	A	motor_dirt_1	motor_label_A	test	230	1154.94461034	1	307.618046761
-LSS_v2_123	123	random	gamepad	subject	George		1	29	1	29	1.0	label	left	A	drum	kit	2	drum	1	B	drum_kit_2	drum_label_B	test	231	1158.63498821	1	313.194655348
-LSS_v2_123	123	random	gamepad	subject	George		1	35	1	35	1.0	label	left	A	motor	dirt	2	motor	1	B	motor_dirt_2	motor_label_B	test	232	1162.39336889	1	365.100775613
-LSS_v2_123	123	random	gamepad	subject	George		1	250	0	106	1.0	label	left	B	motor	harley	1	bird	1	B	motor_harley_1	bird_label_B	test	233	1166.16012056	1	308.087618905
-LSS_v2_123	123	random	gamepad	subject	George		1	44	1	44	1.0	label	right	A	phone	cell	1	phone	1	A	phone_cell_1	phone_label_A	test	234	1169.89280345	1	361.182233319
-LSS_v2_123	123	random	gamepad	subject	George		1	260	0	116	1.0	label	right	B	phone	rotary	1	bird	1	B	phone_rotary_1	bird_label_B	test	235	1173.67298578	1	387.518921285
-LSS_v2_123	123	random	gamepad	subject	George		1	248	0	104	1.0	label	left	B	phone	rotary	1	drum	1	B	phone_rotary_1	drum_label_B	test	236	1177.43965006	1	363.427664968
-LSS_v2_123	123	random	gamepad	subject	George		1	78	1	78	0.8	label	left	B	guitar	acoustic	1	guitar	1	A	guitar_acoustic_1	guitar_label_A	test	237	1181.01725893	1	396.100215148
-LSS_v2_123	123	random	gamepad	subject	George		1	150	0	6	0.8	label	left	A	guitar	electric	1	drum	1	A	guitar_electric_1	drum_label_A	test	238	1184.54402598	1	334.500488359
-LSS_v2_123	123	random	gamepad	subject	George		1	276	0	132	1.2	label	right	B	bird	song	1	guitar	1	B	bird_song_1	guitar_label_B	test	239	1188.44210996	1	317.880773451
-LSS_v2_123	123	random	gamepad	subject	George		1	285	0	141	1.2	label	right	B	phone	rotary	2	drum	1	A	phone_rotary_2	drum_label_A	test	240	1192.35058693	1	331.896555959
-LSS_v2_123	123	random	gamepad	subject	George		1	237	0	93	0.8	label	right	B	phone	rotary	2	dog	1	B	phone_rotary_2	dog_label_B	test	241	1195.87489761	1	355.229198816
-LSS_v2_123	123	random	gamepad	subject	George		1	95	1	95	0.8	label	right	B	motor	harley	2	motor	1	A	motor_harley_2	motor_label_A	test	242	1199.40022329	1	349.996367004
-LSS_v2_123	123	random	gamepad	subject	George		1	225	0	81	0.8	label	left	B	phone	rotary	2	motor	1	B	phone_rotary_2	motor_label_B	test	243	1202.89955511	1	318.328259396
-LSS_v2_123	123	random	gamepad	subject	George		1	58	1	58	1.2	label	left	A	motor	dirt	1	motor	1	B	motor_dirt_1	motor_label_B	test	244	1206.82456249	1	347.172532696
-LSS_v2_123	123	random	gamepad	subject	George		1	261	0	117	1.0	label	right	B	phone	rotary	2	guitar	1	A	phone_rotary_2	guitar_label_A	test	245	1210.55279485	1	352.846768685
-LSS_v2_123	123	random	gamepad	subject	George		1	123	1	123	1.2	label	left	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	test	246	1214.449215	1	275.09721939
-LSS_v2_123	123	random	gamepad	subject	George		1	262	0	118	1.0	label	right	B	motor	harley	1	phone	1	A	motor_harley_1	phone_label_A	test	247	1218.19881336	1	371.191128623
-LSS_v2_123	123	random	gamepad	subject	George		1	113	1	113	1.0	label	right	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	test	248	1221.9529967	1	370.103462716
-LSS_v2_123	123	random	gamepad	subject	George		1	215	0	71	1.2	label	right	A	motor	dirt	2	bird	1	A	motor_dirt_2	bird_label_A	test	249	1225.85705579	1	323.708652752
-LSS_v2_123	123	random	gamepad	subject	George		1	30	1	30	1.0	label	left	A	guitar	electric	1	guitar	1	A	guitar_electric_1	guitar_label_A	test	250	1229.55921105	1	327.602868085
-LSS_v2_123	123	random	gamepad	subject	George		1	61	1	61	1.2	label	right	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	test	251	1233.43996119	1	297.415497014
-LSS_v2_123	123	random	gamepad	subject	George		1	101	1	101	1.0	label	left	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	test	252	1237.09794531	1	288.365911576
-LSS_v2_123	123	random	gamepad	subject	George		1	119	1	119	1.0	label	right	B	motor	harley	2	motor	1	A	motor_harley_2	motor_label_A	test	253	1240.81621583	1	340.054050437
-LSS_v2_123	123	random	gamepad	subject	George		1	167	0	23	0.8	label	right	A	motor	dirt	2	drum	1	A	motor_dirt_2	drum_label_A	test	254	1244.33110305	1	346.291004797
-LSS_v2_123	123	random	gamepad	subject	George		1	96	1	96	1.0	label	left	B	bird	song	1	bird	1	A	bird_song_1	bird_label_A	test	255	1247.9832945	1	276.824105065
-LSS_v2_123	123	random	gamepad	subject	George		1	226	0	82	0.8	label	left	B	motor	harley	1	drum	1	B	motor_harley_1	drum_label_B	test	256	1251.47242568	1	297.029788489
-LSS_v2_123	123	random	gamepad	subject	George		1	216	0	72	0.8	label	left	B	bird	song	1	dog	1	B	bird_song_1	dog_label_B	test	257	1254.99151441	1	289.14501064
-LSS_v2_123	123	random	gamepad	subject	George		1	136	1	136	1.2	label	right	B	drum	bongo	1	drum	1	A	drum_bongo_1	drum_label_A	test	258	1258.8710114	1	256.351786666
-LSS_v2_123	123	random	gamepad	subject	George		1	11	1	11	0.8	label	left	A	motor	dirt	2	motor	1	A	motor_dirt_2	motor_label_A	test	259	1262.38003266	1	297.705818666
-LSS_v2_123	123	random	gamepad	subject	George		1	91	1	91	0.8	label	right	B	guitar	acoustic	2	guitar	1	A	guitar_acoustic_2	guitar_label_A	test	260	1265.87178217	1	305.329082999
-LSS_v2_123	123	random	gamepad	subject	George		1	77	1	77	0.8	label	left	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	test	261	1269.3463307	1	287.350586033
-LSS_v2_123	123	random	gamepad	subject	George		1	190	0	46	1.0	label	right	A	motor	dirt	1	drum	1	B	motor_dirt_1	drum_label_B	test	262	1273.03981536	1	315.594050335
-LSS_v2_123	123	random	gamepad	subject	George		1	267	0	123	1.2	label	left	B	dog	york	2	motor	1	A	dog_york_2	motor_label_A	test	263	1276.9126756	1	295.551292715
-LSS_v2_123	123	random	gamepad	subject	George		1	228	0	84	0.8	label	right	B	bird	song	1	phone	1	A	bird_song_1	phone_label_A	test	264	1280.4041476	1	319.262922276
-LSS_v2_123	123	random	gamepad	subject	George		1	223	0	79	0.8	label	left	B	guitar	acoustic	2	bird	1	A	guitar_acoustic_2	bird_label_A	test	265	1283.84596339	1	261.999135138
-LSS_v2_123	123	random	gamepad	subject	George		1	86	1	86	0.8	label	right	B	dog	york	1	dog	1	B	dog_york_1	dog_label_B	test	266	1287.37068987	1	339.706752682
-LSS_v2_123	123	random	gamepad	subject	George		1	152	0	8	0.8	label	left	A	phone	cell	1	guitar	1	B	phone_cell_1	guitar_label_B	test	267	1290.90613264	1	300.192277995
-LSS_v2_123	123	random	gamepad	subject	George		1	5	1	5	0.8	label	left	A	drum	kit	2	drum	1	A	drum_kit_2	drum_label_A	test	268	1294.42339269	1	335.805175244
-LSS_v2_123	123	random	gamepad	subject	George		1	75	1	75	0.8	label	left	B	dog	york	2	dog	1	A	dog_york_2	dog_label_A	test	269	1297.92027133	1	323.727858136
-LSS_v2_123	123	random	gamepad	subject	George		1	92	1	92	0.8	label	right	B	phone	rotary	1	phone	1	A	phone_rotary_1	phone_label_A	test	270	1301.45339633	1	335.051043192
-LSS_v2_123	123	random	gamepad	subject	George		1	115	1	115	1.0	label	right	B	guitar	acoustic	2	guitar	1	B	guitar_acoustic_2	guitar_label_B	test	271	1305.15148485	1	314.573923359
-LSS_v2_123	123	random	gamepad	subject	George		1	235	0	91	0.8	label	right	B	guitar	acoustic	2	drum	1	B	guitar_acoustic_2	drum_label_B	test	272	1308.6475415	1	319.12304298
-LSS_v2_123	123	random	gamepad	subject	George		1	264	0	120	1.2	label	left	B	bird	song	1	phone	1	B	bird_song_1	phone_label_B	test	273	1312.54426925	1	313.02980904
-LSS_v2_123	123	random	gamepad	subject	George		1	202	0	58	1.2	label	left	A	motor	dirt	1	drum	1	A	motor_dirt_1	drum_label_A	test	274	1316.45550188	1	334.968139767
-LSS_v2_123	123	random	gamepad	subject	George		1	135	1	135	1.2	label	right	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	test	275	1320.33585255	1	308.107144432
-LSS_v2_123	123	random	gamepad	subject	George		1	0	1	0	0.8	label	left	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	test	276	1323.80672804	1	295.574979275
-LSS_v2_123	123	random	gamepad	subject	George		1	199	0	55	1.2	label	left	A	guitar	electric	2	phone	1	A	guitar_electric_2	phone_label_A	test	277	1327.71904897	1	331.304069143
-LSS_v2_123	123	random	gamepad	subject	George		1	268	0	124	1.2	label	left	B	drum	bongo	1	guitar	1	B	drum_bongo_1	guitar_label_B	test	278	1331.61841139	1	325.064234086
-LSS_v2_123	123	random	gamepad	subject	George		1	210	0	66	1.2	label	right	A	guitar	electric	1	bird	1	A	guitar_electric_1	bird_label_A	test	279	1335.56012107	1	355.467025773
-LSS_v2_123	123	random	gamepad	subject	George		1	117	1	117	1.0	label	right	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	test	280	1339.3024662	1	350.130484672
-LSS_v2_123	123	random	gamepad	subject	George		1	236	0	92	0.8	label	right	B	phone	rotary	1	bird	1	B	phone_rotary_1	bird_label_B	test	281	1342.94316129	1	455.350160832
-LSS_v2_123	123	random	gamepad	subject	George		1	80	1	80	0.8	label	left	B	phone	rotary	1	phone	1	B	phone_rotary_1	phone_label_B	test	282	1346.45778765	1	310.130753671
-LSS_v2_123	123	random	gamepad	subject	George		1	12	1	12	0.8	label	right	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	test	283	1349.99274708	1	356.974649825
-LSS_v2_123	123	random	gamepad	subject	George		1	213	0	69	1.2	label	right	A	phone	cell	2	motor	1	B	phone_cell_2	motor_label_B	test	284	1353.91871314	1	346.056698821
-LSS_v2_123	123	random	gamepad	subject	George		1	166	0	22	0.8	label	right	A	motor	dirt	1	guitar	1	B	motor_dirt_1	guitar_label_B	test	285	1357.45048607	1	361.344518955
-LSS_v2_123	123	random	gamepad	subject	George		1	9	1	9	0.8	label	left	A	phone	cell	2	phone	1	A	phone_cell_2	phone_label_A	test	286	1360.96724103	1	340.308842016
-LSS_v2_123	123	random	gamepad	subject	George		1	133	1	133	1.2	label	right	B	bird	song	2	bird	1	A	bird_song_2	bird_label_A	test	287	1364.84198371	1	294.902790338
+LSS_v2_123	123	random	gamepad	subject	George		1	270	0	126	1.2	label	left	B	guitar	acoustic	1	dog	0	B	guitar_acoustic_1	dog_label_B	LSS_v2	practice	0	259.986760436	1	573.320303578
+LSS_v2_123	123	random	gamepad	subject	George		1	204	0	60	1.2	label	right	A	bird	hawk	1	motor	0	B	bird_hawk_1	motor_label_B	LSS_v2	practice	0	263.922419458	1	359.269375331
+LSS_v2_123	123	random	gamepad	subject	George		1	49	1	49	1.2	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	LSS_v2	practice	0	267.811415435	1	314.40811674099996
+LSS_v2_123	123	random	gamepad	subject	George		1	241	0	97	1.0	label	left	B	bird	song	2	drum	0	B	bird_song_2	drum_label_B	LSS_v2	practice	0	271.502874569	1	313.012204133
+LSS_v2_123	123	random	gamepad	subject	George		1	169	0	25	1.0	label	left	A	bird	hawk	2	dog	0	B	bird_hawk_2	dog_label_B	LSS_v2	practice	0	275.20271718	1	323.164499714
+LSS_v2_123	123	random	gamepad	subject	George		1	192	0	48	1.2	label	left	A	bird	hawk	1	phone	0	A	bird_hawk_1	phone_label_A	LSS_v2	practice	0	279.07763111599996	1	290.259564179
+LSS_v2_123	123	random	gamepad	subject	George		1	22	1	22	0.8	label	right	A	motor	dirt	1	motor	0	B	motor_dirt_1	motor_label_B	LSS_v2	practice	0	282.610675771	1	357.44710278199994
+LSS_v2_123	123	random	gamepad	subject	George		1	18	1	18	0.8	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	LSS_v2	practice	0	286.135287654	1	343.850318226
+LSS_v2_123	123	random	gamepad	subject	George		1	251	0	107	1.0	label	left	B	motor	harley	2	phone	0	A	motor_harley_2	phone_label_A	LSS_v2	test	0	293.52683810900004	1	335.26006189599997
+LSS_v2_123	123	random	gamepad	subject	George		1	126	1	126	1.2	label	left	B	guitar	acoustic	1	guitar	0	A	guitar_acoustic_1	guitar_label_A	LSS_v2	test	1	297.409973877	1	295.075638918
+LSS_v2_123	123	random	gamepad	subject	George		1	130	1	130	1.2	label	left	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	LSS_v2	test	2	301.293241843	1	299.8369782
+LSS_v2_123	123	random	gamepad	subject	George		1	33	1	33	1.0	label	left	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	LSS_v2	test	3	304.984636319	1	317.11959932
+LSS_v2_123	123	random	gamepad	subject	George		1	18	1	18	0.8	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	LSS_v2	test	4	308.593020565	1	375.169527717
+LSS_v2_123	123	random	gamepad	subject	George		1	131	1	131	1.2	label	left	B	motor	harley	2	motor	0	B	motor_harley_2	motor_label_B	LSS_v2	test	5	312.500902494	1	336.506172433
+LSS_v2_123	123	random	gamepad	subject	George		1	65	1	65	1.2	label	right	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	LSS_v2	test	6	316.450738944	1	363.78584569300006
+LSS_v2_123	123	random	gamepad	subject	George		1	206	0	62	1.2	label	right	A	dog	rott	1	guitar	0	B	dog_rott_1	guitar_label_B	LSS_v2	test	7	320.425556821	1	394.619478495
+LSS_v2_123	123	random	gamepad	subject	George		1	89	1	89	0.8	label	right	B	drum	bongo	2	drum	0	A	drum_bongo_2	drum_label_A	LSS_v2	test	8	324.00846446099996	1	383.855490829
+LSS_v2_123	123	random	gamepad	subject	George		1	93	1	93	0.8	label	right	B	phone	rotary	2	phone	0	B	phone_rotary_2	phone_label_B	LSS_v2	test	9	327.591624012	1	410.744974273
+LSS_v2_123	123	random	gamepad	subject	George		1	286	0	142	1.2	label	right	B	motor	harley	1	drum	0	A	motor_harley_1	drum_label_A	LSS_v2	test	10	331.525121786	1	358.808445628
+LSS_v2_123	123	random	gamepad	subject	George		1	169	0	25	1.0	label	left	A	bird	hawk	2	dog	0	B	bird_hawk_2	dog_label_B	LSS_v2	test	11	335.208165433	1	299.428863334
+LSS_v2_123	123	random	gamepad	subject	George		1	241	0	97	1.0	label	left	B	bird	song	2	drum	0	B	bird_song_2	drum_label_B	LSS_v2	test	12	338.957993945	1	298.894953215
+LSS_v2_123	123	random	gamepad	subject	George		1	240	0	96	1.0	label	left	B	bird	song	1	motor	0	A	bird_song_1	motor_label_A	LSS_v2	test	13	342.674475797	1	327.195073362
+LSS_v2_123	123	random	gamepad	subject	George		1	67	1	67	1.2	label	right	A	guitar	electric	2	guitar	0	B	guitar_electric_2	guitar_label_B	LSS_v2	test	14	346.624402192	1	362.01958882199995
+LSS_v2_123	123	random	gamepad	subject	George		1	104	1	104	1.0	label	left	B	phone	rotary	1	phone	0	A	phone_rotary_1	phone_label_A	LSS_v2	test	15	350.307240981	1	304.649851983
+LSS_v2_123	123	random	gamepad	subject	George		1	192	0	48	1.2	label	left	A	bird	hawk	1	phone	0	A	bird_hawk_1	phone_label_A	LSS_v2	test	16	354.207500606	1	324.101723381
+LSS_v2_123	123	random	gamepad	subject	George		1	155	0	11	0.8	label	left	A	motor	dirt	2	drum	0	A	motor_dirt_2	drum_label_A	LSS_v2	test	17	357.698538245	1	318.20310407799997
+LSS_v2_123	123	random	gamepad	subject	George		1	59	1	59	1.2	label	left	A	motor	dirt	2	motor	0	A	motor_dirt_2	motor_label_A	LSS_v2	test	18	361.623558435	1	322.447498096
+LSS_v2_123	123	random	gamepad	subject	George		1	200	0	56	1.2	label	left	A	phone	cell	1	dog	0	A	phone_cell_1	dog_label_A	LSS_v2	test	19	365.473135964	1	279.995877296
+LSS_v2_123	123	random	gamepad	subject	George		1	263	0	119	1.0	label	right	B	motor	harley	2	guitar	0	B	motor_harley_2	guitar_label_B	LSS_v2	test	20	369.264649481	1	405.788700213
+LSS_v2_123	123	random	gamepad	subject	George		1	254	0	110	1.0	label	right	B	dog	york	1	bird	0	B	dog_york_1	bird_label_B	LSS_v2	test	21	373.02321517	1	383.896142361
+LSS_v2_123	123	random	gamepad	subject	George		1	22	1	22	0.8	label	right	A	motor	dirt	1	motor	0	B	motor_dirt_1	motor_label_B	LSS_v2	test	22	376.539287371	1	334.36957153
+LSS_v2_123	123	random	gamepad	subject	George		1	57	1	57	1.2	label	left	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	LSS_v2	test	23	380.39019359400004	1	275.46884387299997
+LSS_v2_123	123	random	gamepad	subject	George		1	259	0	115	1.0	label	right	B	guitar	acoustic	2	phone	0	A	guitar_acoustic_2	phone_label_A	LSS_v2	test	24	384.103340428	1	330.833536922
+LSS_v2_123	123	random	gamepad	subject	George		1	270	0	126	1.2	label	left	B	guitar	acoustic	1	dog	0	B	guitar_acoustic_1	dog_label_B	LSS_v2	test	25	388.039019615	1	307.134070667
+LSS_v2_123	123	random	gamepad	subject	George		1	103	1	103	1.0	label	left	B	guitar	acoustic	2	guitar	0	A	guitar_acoustic_2	guitar_label_A	LSS_v2	test	26	391.738548539	1	326.737984899
+LSS_v2_123	123	random	gamepad	subject	George		1	256	0	112	1.0	label	right	B	drum	bongo	1	dog	0	A	drum_bongo_1	dog_label_A	LSS_v2	test	27	395.456893635	1	338.50193372900003
+LSS_v2_123	123	random	gamepad	subject	George		1	227	0	83	0.8	label	left	B	motor	harley	2	bird	0	A	motor_harley_2	bird_label_A	LSS_v2	test	28	398.946543044	1	320.071469643
+LSS_v2_123	123	random	gamepad	subject	George		1	195	0	51	1.2	label	left	A	dog	rott	2	motor	0	A	dog_rott_2	motor_label_A	LSS_v2	test	29	402.822220394	1	297.52816865200003
+LSS_v2_123	123	random	gamepad	subject	George		1	106	1	106	1.0	label	left	B	motor	harley	1	motor	0	B	motor_harley_1	motor_label_B	LSS_v2	test	30	406.471606574	1	273.361371132
+LSS_v2_123	123	random	gamepad	subject	George		1	90	1	90	0.8	label	right	B	guitar	acoustic	1	guitar	0	A	guitar_acoustic_1	guitar_label_A	LSS_v2	test	31	410.031039131	1	297.434702399
+LSS_v2_123	123	random	gamepad	subject	George		1	217	0	73	0.8	label	left	B	bird	song	2	motor	0	B	bird_song_2	motor_label_B	LSS_v2	test	32	413.50416517199994	1	280.050292611
+LSS_v2_123	123	random	gamepad	subject	George		1	125	1	125	1.2	label	left	B	drum	bongo	2	drum	0	B	drum_bongo_2	drum_label_B	LSS_v2	test	33	417.38196728	1	302.064804826
+LSS_v2_123	123	random	gamepad	subject	George		1	48	1	48	1.2	label	left	A	bird	hawk	1	bird	0	B	bird_hawk_1	bird_label_B	LSS_v2	test	34	421.262375241	1	298.23332699
+LSS_v2_123	123	random	gamepad	subject	George		1	4	1	4	0.8	label	left	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	LSS_v2	test	35	424.753630861	1	308.961144648
+LSS_v2_123	123	random	gamepad	subject	George		1	280	0	136	1.2	label	right	B	drum	bongo	1	motor	0	B	drum_bongo_1	motor_label_B	LSS_v2	test	36	428.65497463099996	1	309.487692663
+LSS_v2_123	123	random	gamepad	subject	George		1	197	0	53	1.2	label	left	A	drum	kit	2	dog	0	A	drum_kit_2	dog_label_A	LSS_v2	test	37	432.565845561	1	328.729905072
+LSS_v2_123	123	random	gamepad	subject	George		1	179	0	35	1.0	label	left	A	motor	dirt	2	guitar	0	B	motor_dirt_2	guitar_label_B	LSS_v2	test	38	436.27911210900004	1	326.595544815
+LSS_v2_123	123	random	gamepad	subject	George		1	204	0	60	1.2	label	right	A	bird	hawk	1	motor	0	B	bird_hawk_1	motor_label_B	LSS_v2	test	39	440.270445351	1	366.74027668800005
+LSS_v2_123	123	random	gamepad	subject	George		1	278	0	134	1.2	label	right	B	dog	york	1	guitar	0	A	dog_york_1	guitar_label_A	LSS_v2	test	40	444.23866041	1	388.887626235
+LSS_v2_123	123	random	gamepad	subject	George		1	62	1	62	1.2	label	right	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	LSS_v2	test	41	448.12752419	1	323.02494044400004
+LSS_v2_123	123	random	gamepad	subject	George		1	203	0	59	1.2	label	left	A	motor	dirt	2	drum	0	B	motor_dirt_2	drum_label_B	LSS_v2	test	42	452.04554689099996	1	343.91305584
+LSS_v2_123	123	random	gamepad	subject	George		1	49	1	49	1.2	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	LSS_v2	test	43	455.97713340800004	1	354.392803623
+LSS_v2_123	123	random	gamepad	subject	George		1	269	0	125	1.2	label	left	B	drum	bongo	2	phone	0	B	drum_bongo_2	phone_label_B	LSS_v2	test	44	459.91887222	1	287.112118909
+LSS_v2_123	123	random	gamepad	subject	George		1	148	0	4	0.8	label	left	A	drum	kit	1	dog	0	A	drum_kit_1	dog_label_A	LSS_v2	test	45	463.438189174	1	328.303225222
+LSS_v2_123	123	random	gamepad	subject	George		1	3	1	3	0.8	label	left	A	dog	rott	2	dog	0	B	dog_rott_2	dog_label_B	LSS_v2	test	46	466.93494970300003	1	330.989100621
+LSS_v2_123	123	random	gamepad	subject	George		1	116	1	116	1.0	label	right	B	phone	rotary	1	phone	0	B	phone_rotary_1	phone_label_B	LSS_v2	test	47	470.669954205	1	347.783264471
+LSS_v2_123	123	random	gamepad	subject	George		1	221	0	77	0.8	label	left	B	drum	bongo	2	dog	0	B	drum_bongo_2	dog_label_B	LSS_v2	test	48	474.216745766	1	300.699300715
+LSS_v2_123	123	random	gamepad	subject	George		1	218	0	74	0.8	label	left	B	dog	york	1	bird	0	A	dog_york_1	bird_label_A	LSS_v2	test	49	477.70979101	1	308.702511829
+LSS_v2_123	123	random	gamepad	subject	George		1	28	1	28	1.0	label	left	A	drum	kit	1	drum	0	B	drum_kit_1	drum_label_B	LSS_v2	test	50	481.392555538	1	310.19797246
+LSS_v2_123	123	random	gamepad	subject	George		1	247	0	103	1.0	label	left	B	guitar	acoustic	2	motor	0	B	guitar_acoustic_2	motor_label_B	LSS_v2	test	51	485.085159314	1	309.41695277599996
+LSS_v2_123	123	random	gamepad	subject	George		1	137	1	137	1.2	label	right	B	drum	bongo	2	drum	0	B	drum_bongo_2	drum_label_B	LSS_v2	test	52	488.95907841	1	265.777477878
+LSS_v2_123	123	random	gamepad	subject	George		1	193	0	49	1.2	label	left	A	bird	hawk	2	dog	0	A	bird_hawk_2	dog_label_A	LSS_v2	test	53	492.86954826699997	1	333.29150825700003
+LSS_v2_123	123	random	gamepad	subject	George		1	171	0	27	1.0	label	left	A	dog	rott	2	phone	0	A	dog_rott_2	phone_label_A	LSS_v2	test	54	496.591833351	1	343.586243922
+LSS_v2_123	123	random	gamepad	subject	George		1	19	1	19	0.8	label	right	A	guitar	electric	2	guitar	0	A	guitar_electric_2	guitar_label_A	LSS_v2	test	55	500.101125405	1	334.44415242400004
+LSS_v2_123	123	random	gamepad	subject	George		1	112	1	112	1.0	label	right	B	drum	bongo	1	drum	0	A	drum_bongo_1	drum_label_A	LSS_v2	test	56	503.833246536	1	358.275815845
+LSS_v2_123	123	random	gamepad	subject	George		1	233	0	89	0.8	label	right	B	drum	bongo	2	bird	0	A	drum_bongo_2	bird_label_A	LSS_v2	test	57	507.3499013	1	341.196451802
+LSS_v2_123	123	random	gamepad	subject	George		1	246	0	102	1.0	label	left	B	guitar	acoustic	1	drum	0	B	guitar_acoustic_1	drum_label_B	LSS_v2	test	58	511.19636115199995	1	407.162526622
+LSS_v2_123	123	random	gamepad	subject	George		1	118	1	118	1.0	label	right	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	LSS_v2	test	59	514.93412163	1	301.03091395
+LSS_v2_123	123	random	gamepad	subject	George		1	272	0	128	1.2	label	left	B	phone	rotary	1	motor	0	B	phone_rotary_1	motor_label_B	LSS_v2	test	60	518.884862334	1	351.78503010000003
+LSS_v2_123	123	random	gamepad	subject	George		1	146	0	2	0.8	label	left	A	dog	rott	1	phone	0	B	dog_rott_1	phone_label_B	LSS_v2	test	61	522.390802405	1	331.47787803299997
+LSS_v2_123	123	random	gamepad	subject	George		1	54	1	54	1.2	label	left	A	guitar	electric	1	guitar	0	B	guitar_electric_1	guitar_label_B	LSS_v2	test	62	526.285321535	1	319.574369933
+LSS_v2_123	123	random	gamepad	subject	George		1	24	1	24	1.0	label	left	A	bird	hawk	1	bird	0	A	bird_hawk_1	bird_label_A	LSS_v2	test	63	529.992877357	1	331.495163031
+LSS_v2_123	123	random	gamepad	subject	George		1	211	0	67	1.2	label	right	A	guitar	electric	2	dog	0	A	guitar_electric_2	dog_label_A	LSS_v2	test	64	533.89007468	1	327.30358385
+LSS_v2_123	123	random	gamepad	subject	George		1	175	0	31	1.0	label	left	A	guitar	electric	2	bird	0	A	guitar_electric_2	bird_label_A	LSS_v2	test	65	537.57341537	1	307.514657732
+LSS_v2_123	123	random	gamepad	subject	George		1	182	0	38	1.0	label	right	A	dog	rott	1	motor	0	A	dog_rott_1	motor_label_A	LSS_v2	test	66	541.281354339	1	325.012699584
+LSS_v2_123	123	random	gamepad	subject	George		1	185	0	41	1.0	label	right	A	drum	kit	2	bird	0	B	drum_kit_2	bird_label_B	LSS_v2	test	67	544.976838285	1	321.854691254
+LSS_v2_123	123	random	gamepad	subject	George		1	46	1	46	1.0	label	right	A	motor	dirt	1	motor	0	A	motor_dirt_1	motor_label_A	LSS_v2	test	68	548.702168386	1	320.193424006
+LSS_v2_123	123	random	gamepad	subject	George		1	239	0	95	0.8	label	right	B	motor	harley	2	guitar	0	B	motor_harley_2	guitar_label_B	LSS_v2	test	69	552.2558165959999	1	378.192137927
+LSS_v2_123	123	random	gamepad	subject	George		1	163	0	19	0.8	label	right	A	guitar	electric	2	drum	0	B	guitar_electric_2	drum_label_B	LSS_v2	test	70	555.7643567580001	1	332.140464452
+LSS_v2_123	123	random	gamepad	subject	George		1	214	0	70	1.2	label	right	A	motor	dirt	1	phone	0	A	motor_dirt_1	phone_label_A	LSS_v2	test	71	559.697138811	1	331.45995310000006
+LSS_v2_123	123	random	gamepad	subject	George		1	122	1	122	1.2	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	LSS_v2	test	72	563.588912529	1	317.050139885
+LSS_v2_123	123	random	gamepad	subject	George		1	36	1	36	1.0	label	right	A	bird	hawk	1	bird	0	B	bird_hawk_1	bird_label_B	LSS_v2	test	73	567.3255363669999	1	336.638049572
+LSS_v2_123	123	random	gamepad	subject	George		1	234	0	90	0.8	label	right	B	guitar	acoustic	1	drum	0	A	guitar_acoustic_1	drum_label_A	LSS_v2	test	74	570.854918872	1	347.099552164
+LSS_v2_123	123	random	gamepad	subject	George		1	177	0	33	1.0	label	left	A	phone	cell	2	bird	0	B	phone_cell_2	bird_label_B	LSS_v2	test	75	574.588130549	1	334.73255357200003
+LSS_v2_123	123	random	gamepad	subject	George		1	147	0	3	0.8	label	left	A	dog	rott	2	bird	0	A	dog_rott_2	bird_label_A	LSS_v2	test	76	578.108616152	1	337.081054226
+LSS_v2_123	123	random	gamepad	subject	George		1	151	0	7	0.8	label	left	A	guitar	electric	2	phone	0	B	guitar_electric_2	phone_label_B	LSS_v2	test	77	581.604634392	1	317.619580077
+LSS_v2_123	123	random	gamepad	subject	George		1	72	1	72	0.8	label	left	B	bird	song	1	bird	0	B	bird_song_1	bird_label_B	LSS_v2	test	78	585.084965979	1	296.53652978599996
+LSS_v2_123	123	random	gamepad	subject	George		1	50	1	50	1.2	label	left	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	LSS_v2	test	79	588.981219677	1	317.556202295
+LSS_v2_123	123	random	gamepad	subject	George		1	253	0	109	1.0	label	right	B	bird	song	2	motor	0	B	bird_song_2	motor_label_B	LSS_v2	test	80	592.670758591	1	291.707651457
+LSS_v2_123	123	random	gamepad	subject	George		1	66	1	66	1.2	label	right	A	guitar	electric	1	guitar	0	A	guitar_electric_1	guitar_label_A	LSS_v2	test	81	596.605050829	1	359.67236873699994
+LSS_v2_123	123	random	gamepad	subject	George		1	98	1	98	1.0	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	LSS_v2	test	82	600.292718496	1	305.439513992
+LSS_v2_123	123	random	gamepad	subject	George		1	230	0	86	0.8	label	right	B	dog	york	1	bird	0	A	dog_york_1	bird_label_A	LSS_v2	test	83	603.837325123	1	320.308016264
+LSS_v2_123	123	random	gamepad	subject	George		1	128	1	128	1.2	label	left	B	phone	rotary	1	phone	0	A	phone_rotary_1	phone_label_A	LSS_v2	test	84	607.72817154	1	316.789906588
+LSS_v2_123	123	random	gamepad	subject	George		1	127	1	127	1.2	label	left	B	guitar	acoustic	2	guitar	0	B	guitar_acoustic_2	guitar_label_B	LSS_v2	test	85	611.6203178430001	1	317.18553789
+LSS_v2_123	123	random	gamepad	subject	George		1	224	0	80	0.8	label	left	B	phone	rotary	1	drum	0	B	phone_rotary_1	drum_label_B	LSS_v2	test	86	615.136205992	1	344.51930644
+LSS_v2_123	123	random	gamepad	subject	George		1	109	1	109	1.0	label	right	B	bird	song	2	bird	0	A	bird_song_2	bird_label_A	LSS_v2	test	87	618.877904537	1	324.32514615400004
+LSS_v2_123	123	random	gamepad	subject	George		1	69	1	69	1.2	label	right	A	phone	cell	2	phone	0	B	phone_cell_2	phone_label_B	LSS_v2	test	88	622.877685595	1	424.07384340199997
+LSS_v2_123	123	random	gamepad	subject	George		1	73	1	73	0.8	label	left	B	bird	song	2	bird	0	A	bird_song_2	bird_label_A	LSS_v2	test	89	626.64416263	1	579.827413894
+LSS_v2_123	123	random	gamepad	subject	George		1	82	1	82	0.8	label	left	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	LSS_v2	test	90	630.20420848	1	343.21461932299997
+LSS_v2_123	123	random	gamepad	subject	George		1	38	1	38	1.0	label	right	A	dog	rott	1	dog	0	B	dog_rott_1	dog_label_B	LSS_v2	test	91	633.918852375	1	303.494967055
+LSS_v2_123	123	random	gamepad	subject	George		1	212	0	68	1.2	label	right	A	phone	cell	1	bird	0	B	phone_cell_1	bird_label_B	LSS_v2	test	92	637.81303413	1	319.060945418
+LSS_v2_123	123	random	gamepad	subject	George		1	124	1	124	1.2	label	left	B	drum	bongo	1	drum	0	A	drum_bongo_1	drum_label_A	LSS_v2	test	93	641.693904942	1	305.610442185
+LSS_v2_123	123	random	gamepad	subject	George		1	168	0	24	1.0	label	left	A	bird	hawk	1	guitar	0	A	bird_hawk_1	guitar_label_A	LSS_v2	test	94	645.41193955	1	331.706102355
+LSS_v2_123	123	random	gamepad	subject	George		1	165	0	21	0.8	label	right	A	phone	cell	2	drum	0	A	phone_cell_2	drum_label_A	LSS_v2	test	95	649.0366691940001	1	443.11151839800004
+LSS_v2_123	123	random	gamepad	subject	George		1	14	1	14	0.8	label	right	A	dog	rott	1	dog	0	A	dog_rott_1	dog_label_A	LSS_v2	test	96	652.576001378	1	358.57157898099996
+LSS_v2_123	123	random	gamepad	subject	George		1	153	0	9	0.8	label	left	A	phone	cell	2	motor	0	B	phone_cell_2	motor_label_B	LSS_v2	test	97	656.117699667	1	314.740370144
+LSS_v2_123	123	random	gamepad	subject	George		1	1	1	1	0.8	label	left	A	bird	hawk	2	bird	0	B	bird_hawk_2	bird_label_B	LSS_v2	test	98	659.6362964169999	1	342.980313464
+LSS_v2_123	123	random	gamepad	subject	George		1	102	1	102	1.0	label	left	B	guitar	acoustic	1	guitar	0	B	guitar_acoustic_1	guitar_label_B	LSS_v2	test	99	663.35892976	1	347.209342988
+LSS_v2_123	123	random	gamepad	subject	George		1	26	1	26	1.0	label	left	A	dog	rott	1	dog	0	B	dog_rott_1	dog_label_B	LSS_v2	test	100	667.075953524	1	270.12141968599997
+LSS_v2_123	123	random	gamepad	subject	George		1	180	0	36	1.0	label	right	A	bird	hawk	1	drum	0	A	bird_hawk_1	drum_label_A	LSS_v2	test	101	670.775228936	1	305.391500471
+LSS_v2_123	123	random	gamepad	subject	George		1	275	0	131	1.2	label	left	B	motor	harley	2	bird	0	A	motor_harley_2	bird_label_A	LSS_v2	test	102	674.7083400419999	1	294.48411252799997
+LSS_v2_123	123	random	gamepad	subject	George		1	110	1	110	1.0	label	right	B	dog	york	1	dog	0	B	dog_york_1	dog_label_B	LSS_v2	test	103	678.522942293	1	367.253060918
+LSS_v2_123	123	random	gamepad	subject	George		1	21	1	21	0.8	label	right	A	phone	cell	2	phone	0	B	phone_cell_2	phone_label_B	LSS_v2	test	104	682.091257669	1	389.840534423
+LSS_v2_123	123	random	gamepad	subject	George		1	158	0	14	0.8	label	right	A	dog	rott	1	bird	0	B	dog_rott_1	bird_label_B	LSS_v2	test	105	685.660371669	1	388.55313230300004
+LSS_v2_123	123	random	gamepad	subject	George		1	173	0	29	1.0	label	left	A	drum	kit	2	dog	0	B	drum_kit_2	dog_label_B	LSS_v2	test	106	689.316099793	1	282.76977746299997
+LSS_v2_123	123	random	gamepad	subject	George		1	209	0	65	1.2	label	right	A	drum	kit	2	bird	0	B	drum_kit_2	bird_label_B	LSS_v2	test	107	693.2157224380001	1	318.133324501
+LSS_v2_123	123	random	gamepad	subject	George		1	45	1	45	1.0	label	right	A	phone	cell	2	phone	0	A	phone_cell_2	phone_label_A	LSS_v2	test	108	696.965745885	1	364.70290354900004
+LSS_v2_123	123	random	gamepad	subject	George		1	265	0	121	1.2	label	left	B	bird	song	2	phone	0	B	bird_song_2	phone_label_B	LSS_v2	test	109	700.923901795	1	331.991622574
+LSS_v2_123	123	random	gamepad	subject	George		1	41	1	41	1.0	label	right	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	LSS_v2	test	110	704.8151422430001	1	521.702264436
+LSS_v2_123	123	random	gamepad	subject	George		1	245	0	101	1.0	label	left	B	drum	bongo	2	bird	0	B	drum_bongo_2	bird_label_B	LSS_v2	test	111	708.523516855	1	333.146827528
+LSS_v2_123	123	random	gamepad	subject	George		1	208	0	64	1.2	label	right	A	drum	kit	1	phone	0	A	drum_kit_1	phone_label_A	LSS_v2	test	112	712.4847254639999	1	369.05260710000005
+LSS_v2_123	123	random	gamepad	subject	George		1	85	1	85	0.8	label	right	B	bird	song	2	bird	0	B	bird_song_2	bird_label_B	LSS_v2	test	113	716.0279128110001	1	371.13735359199995
+LSS_v2_123	123	random	gamepad	subject	George		1	74	1	74	0.8	label	left	B	dog	york	1	dog	0	A	dog_york_1	dog_label_A	LSS_v2	test	114	719.564709882	1	354.326224886
+LSS_v2_123	123	random	gamepad	subject	George		1	274	0	130	1.2	label	left	B	motor	harley	1	drum	0	A	motor_harley_1	drum_label_A	LSS_v2	test	115	723.4837594319999	1	343.746289029
+LSS_v2_123	123	random	gamepad	subject	George		1	108	1	108	1.0	label	right	B	bird	song	1	bird	0	A	bird_song_1	bird_label_A	LSS_v2	test	116	727.2310141	1	365.93012884300003
+LSS_v2_123	123	random	gamepad	subject	George		1	8	1	8	0.8	label	left	A	phone	cell	1	phone	0	B	phone_cell_1	phone_label_B	LSS_v2	test	117	730.772497608	1	365.102696116
+LSS_v2_123	123	random	gamepad	subject	George		1	273	0	129	1.2	label	left	B	phone	rotary	2	guitar	0	B	phone_rotary_2	guitar_label_B	LSS_v2	test	118	734.731234802	1	375.826352509
+LSS_v2_123	123	random	gamepad	subject	George		1	40	1	40	1.0	label	right	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	LSS_v2	test	119	738.522444553	1	412.572048255
+LSS_v2_123	123	random	gamepad	subject	George		1	284	0	140	1.2	label	right	B	phone	rotary	1	drum	0	B	phone_rotary_1	drum_label_B	LSS_v2	test	120	742.45502687	1	362.176753115
+LSS_v2_123	123	random	gamepad	subject	George		1	140	1	140	1.2	label	right	B	phone	rotary	1	phone	0	B	phone_rotary_1	phone_label_B	LSS_v2	test	121	746.436265113	1	405.331291608
+LSS_v2_123	123	random	gamepad	subject	George		1	94	1	94	0.8	label	right	B	motor	harley	1	motor	0	A	motor_harley_1	motor_label_A	LSS_v2	test	122	750.004877212	1	373.554993537
+LSS_v2_123	123	random	gamepad	subject	George		1	271	0	127	1.2	label	left	B	guitar	acoustic	2	dog	0	A	guitar_acoustic_2	dog_label_A	LSS_v2	test	123	753.931182563	1	277.211093926
+LSS_v2_123	123	random	gamepad	subject	George		1	132	1	132	1.2	label	right	B	bird	song	1	bird	0	A	bird_song_1	bird_label_A	LSS_v2	test	124	757.851924749	1	338.576194714
+LSS_v2_123	123	random	gamepad	subject	George		1	188	0	44	1.0	label	right	A	phone	cell	1	drum	0	B	phone_cell_1	drum_label_B	LSS_v2	test	125	761.58002587	1	324.947401183
+LSS_v2_123	123	random	gamepad	subject	George		1	23	1	23	0.8	label	right	A	motor	dirt	2	motor	0	A	motor_dirt_2	motor_label_A	LSS_v2	test	126	765.095610253	1	332.335079322
+LSS_v2_123	123	random	gamepad	subject	George		1	159	0	15	0.8	label	right	A	dog	rott	2	guitar	0	A	dog_rott_2	guitar_label_A	LSS_v2	test	127	768.6040572689999	1	332.288986305
+LSS_v2_123	123	random	gamepad	subject	George		1	134	1	134	1.2	label	right	B	dog	york	1	dog	0	B	dog_york_1	dog_label_B	LSS_v2	test	128	772.562803425	1	368.357691681
+LSS_v2_123	123	random	gamepad	subject	George		1	244	0	100	1.0	label	left	B	drum	bongo	1	phone	0	A	drum_bongo_1	phone_label_A	LSS_v2	test	129	776.236721945	1	302.980582346
+LSS_v2_123	123	random	gamepad	subject	George		1	42	1	42	1.0	label	right	A	guitar	electric	1	guitar	0	B	guitar_electric_1	guitar_label_B	LSS_v2	test	130	779.955928084	1	343.309046002
+LSS_v2_123	123	random	gamepad	subject	George		1	88	1	88	0.8	label	right	B	drum	bongo	1	drum	0	B	drum_bongo_1	drum_label_B	LSS_v2	test	131	783.5199104	1	373.768493533
+LSS_v2_123	123	random	gamepad	subject	George		1	81	1	81	0.8	label	left	B	phone	rotary	2	phone	0	A	phone_rotary_2	phone_label_A	LSS_v2	test	132	787.0507950880001	1	347.385072382
+LSS_v2_123	123	random	gamepad	subject	George		1	201	0	57	1.2	label	left	A	phone	cell	2	drum	0	A	phone_cell_2	drum_label_A	LSS_v2	test	133	791.0279659460001	1	398.515294306
+LSS_v2_123	123	random	gamepad	subject	George		1	143	1	143	1.2	label	right	B	motor	harley	2	motor	0	B	motor_harley_2	motor_label_B	LSS_v2	test	134	794.9274784810001	1	328.542012372
+LSS_v2_123	123	random	gamepad	subject	George		1	220	0	76	0.8	label	left	B	drum	bongo	1	phone	0	A	drum_bongo_1	phone_label_A	LSS_v2	test	135	798.46071423	1	326.101005659
+LSS_v2_123	123	random	gamepad	subject	George		1	53	1	53	1.2	label	left	A	drum	kit	2	drum	0	B	drum_kit_2	drum_label_B	LSS_v2	test	136	802.5705300789999	1	474.83820247
+LSS_v2_123	123	random	gamepad	subject	George		1	139	1	139	1.2	label	right	B	guitar	acoustic	2	guitar	0	B	guitar_acoustic_2	guitar_label_B	LSS_v2	test	137	806.403186368	1	259.05974838
+LSS_v2_123	123	random	gamepad	subject	George		1	252	0	108	1.0	label	right	B	bird	song	1	drum	0	B	bird_song_1	drum_label_B	LSS_v2	test	138	810.1405057610001	1	324.668602785
+LSS_v2_123	123	random	gamepad	subject	George		1	194	0	50	1.2	label	left	A	dog	rott	1	bird	0	B	dog_rott_1	bird_label_B	LSS_v2	test	139	814.051732631	1	329.780440661
+LSS_v2_123	123	random	gamepad	subject	George		1	87	1	87	0.8	label	right	B	dog	york	2	dog	0	B	dog_york_2	dog_label_B	LSS_v2	test	140	817.676661371	1	448.892664514
+LSS_v2_123	123	random	gamepad	subject	George		1	16	1	16	0.8	label	right	A	drum	kit	1	drum	0	A	drum_kit_1	drum_label_A	LSS_v2	test	141	821.262360837	1	371.45648326300005
+LSS_v2_123	123	random	gamepad	subject	George		1	47	1	47	1.0	label	right	A	motor	dirt	2	motor	0	B	motor_dirt_2	motor_label_B	LSS_v2	test	142	824.98442954	1	344.377826666
+LSS_v2_123	123	random	gamepad	subject	George		1	100	1	100	1.0	label	left	B	drum	bongo	1	drum	1	B	drum_bongo_1	drum_label_B	LSS_v2	test	143	831.0029349060001	1	298.826133832
+LSS_v2_123	123	random	gamepad	subject	George		1	198	0	54	1.2	label	left	A	guitar	electric	1	dog	1	A	guitar_electric_1	dog_label_A	LSS_v2	test	144	834.958900119	1	378.386752564
+LSS_v2_123	123	random	gamepad	subject	George		1	55	1	55	1.2	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	LSS_v2	test	145	838.850706487	1	284.356783843
+LSS_v2_123	123	random	gamepad	subject	George		1	32	1	32	1.0	label	left	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	LSS_v2	test	146	842.558577917	1	302.906321478
+LSS_v2_123	123	random	gamepad	subject	George		1	181	0	37	1.0	label	right	A	bird	hawk	2	dog	1	B	bird_hawk_2	dog_label_B	LSS_v2	test	147	846.2919774869999	1	346.89821547400004
+LSS_v2_123	123	random	gamepad	subject	George		1	71	1	71	1.2	label	right	A	motor	dirt	2	motor	1	A	motor_dirt_2	motor_label_A	LSS_v2	test	148	850.250073861	1	301.230009994
+LSS_v2_123	123	random	gamepad	subject	George		1	157	0	13	0.8	label	right	A	bird	hawk	2	drum	1	A	bird_hawk_2	drum_label_A	LSS_v2	test	149	853.7913333060001	1	353.41844952199995
+LSS_v2_123	123	random	gamepad	subject	George		1	282	0	138	1.2	label	right	B	guitar	acoustic	1	motor	1	A	guitar_acoustic_1	motor_label_A	LSS_v2	test	150	857.708033716	1	337.822382688
+LSS_v2_123	123	random	gamepad	subject	George		1	183	0	39	1.0	label	right	A	dog	rott	2	bird	1	B	dog_rott_2	bird_label_B	LSS_v2	test	151	861.5827130260001	1	487.35788406300003
+LSS_v2_123	123	random	gamepad	subject	George		1	52	1	52	1.2	label	left	A	drum	kit	1	drum	1	A	drum_kit_1	drum_label_A	LSS_v2	test	152	865.515968492	1	345.93698510400003
+LSS_v2_123	123	random	gamepad	subject	George		1	70	1	70	1.2	label	right	A	motor	dirt	1	motor	1	B	motor_dirt_1	motor_label_B	LSS_v2	test	153	869.4192596889999	1	300.999545143
+LSS_v2_123	123	random	gamepad	subject	George		1	99	1	99	1.0	label	left	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	LSS_v2	test	154	873.132071069	1	335.763243493
+LSS_v2_123	123	random	gamepad	subject	George		1	238	0	94	0.8	label	right	B	motor	harley	1	dog	1	B	motor_harley_1	dog_label_B	LSS_v2	test	155	876.683043647	1	342.31388603799996
+LSS_v2_123	123	random	gamepad	subject	George		1	219	0	75	0.8	label	left	B	dog	york	2	phone	1	B	dog_york_2	phone_label_B	LSS_v2	test	156	880.3069967519999	1	449.17882501599996
+LSS_v2_123	123	random	gamepad	subject	George		1	27	1	27	1.0	label	left	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	LSS_v2	test	157	884.0744740680001	1	368.39002068199994
+LSS_v2_123	123	random	gamepad	subject	George		1	229	0	85	0.8	label	right	B	bird	song	2	motor	1	B	bird_song_2	motor_label_B	LSS_v2	test	158	887.573017498	1	328.363402048
+LSS_v2_123	123	random	gamepad	subject	George		1	17	1	17	0.8	label	right	A	drum	kit	2	drum	1	A	drum_kit_2	drum_label_A	LSS_v2	test	159	891.098278524	1	328.093886259
+LSS_v2_123	123	random	gamepad	subject	George		1	161	0	17	0.8	label	right	A	drum	kit	2	phone	1	A	drum_kit_2	phone_label_A	LSS_v2	test	160	894.5893548939999	1	321.73977897
+LSS_v2_123	123	random	gamepad	subject	George		1	156	0	12	0.8	label	right	A	bird	hawk	1	dog	1	A	bird_hawk_1	dog_label_A	LSS_v2	test	161	898.074664842	1	307.825785247
+LSS_v2_123	123	random	gamepad	subject	George		1	60	1	60	1.2	label	right	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	LSS_v2	test	162	902.0980787880001	1	418.8006802
+LSS_v2_123	123	random	gamepad	subject	George		1	258	0	114	1.0	label	right	B	guitar	acoustic	1	phone	1	B	guitar_acoustic_1	phone_label_B	LSS_v2	test	163	905.7667174219999	1	289.414206403
+LSS_v2_123	123	random	gamepad	subject	George		1	83	1	83	0.8	label	left	B	motor	harley	2	motor	1	B	motor_harley_2	motor_label_B	LSS_v2	test	164	909.322269528	1	357.591143227
+LSS_v2_123	123	random	gamepad	subject	George		1	76	1	76	0.8	label	left	B	drum	bongo	1	drum	1	A	drum_bongo_1	drum_label_A	LSS_v2	test	165	912.905356099	1	307.96246370299997
+LSS_v2_123	123	random	gamepad	subject	George		1	111	1	111	1.0	label	right	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	LSS_v2	test	166	916.5882838719999	1	314.023048384
+LSS_v2_123	123	random	gamepad	subject	George		1	2	1	2	0.8	label	left	A	dog	rott	1	dog	1	B	dog_rott_1	dog_label_B	LSS_v2	test	167	920.074301219	1	310.682908865
+LSS_v2_123	123	random	gamepad	subject	George		1	144	0	0	0.8	label	left	A	bird	hawk	1	phone	1	A	bird_hawk_1	phone_label_A	LSS_v2	test	168	923.613204162	1	317.247955478
+LSS_v2_123	123	random	gamepad	subject	George		1	129	1	129	1.2	label	left	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	LSS_v2	test	169	927.529664824	1	341.918254853
+LSS_v2_123	123	random	gamepad	subject	George		1	255	0	111	1.0	label	right	B	dog	york	2	motor	1	A	dog_york_2	motor_label_A	LSS_v2	test	170	931.282227545	1	323.755385936
+LSS_v2_123	123	random	gamepad	subject	George		1	84	1	84	0.8	label	right	B	bird	song	1	bird	1	B	bird_song_1	bird_label_B	LSS_v2	test	171	934.8043283210001	1	300.16411026
+LSS_v2_123	123	random	gamepad	subject	George		1	154	0	10	0.8	label	left	A	motor	dirt	1	guitar	1	B	motor_dirt_1	guitar_label_B	LSS_v2	test	172	938.322115885	1	336.955899023
+LSS_v2_123	123	random	gamepad	subject	George		1	281	0	137	1.2	label	right	B	drum	bongo	2	dog	1	B	drum_bongo_2	dog_label_B	LSS_v2	test	173	942.2215695230001	1	330.654606456
+LSS_v2_123	123	random	gamepad	subject	George		1	196	0	52	1.2	label	left	A	drum	kit	1	motor	1	A	drum_kit_1	motor_label_A	LSS_v2	test	174	946.128536955	1	323.81908386
+LSS_v2_123	123	random	gamepad	subject	George		1	97	1	97	1.0	label	left	B	bird	song	2	bird	1	B	bird_song_2	bird_label_B	LSS_v2	test	175	949.8783795510001	1	366.32095871
+LSS_v2_123	123	random	gamepad	subject	George		1	105	1	105	1.0	label	left	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	LSS_v2	test	176	953.5951238760001	1	336.951417732
+LSS_v2_123	123	random	gamepad	subject	George		1	120	1	120	1.2	label	left	B	bird	song	1	bird	1	A	bird_song_1	bird_label_A	LSS_v2	test	177	957.519752916	1	355.81144259800004
+LSS_v2_123	123	random	gamepad	subject	George		1	242	0	98	1.0	label	left	B	dog	york	1	phone	1	A	dog_york_1	phone_label_A	LSS_v2	test	178	961.194758462	1	296.220280929
+LSS_v2_123	123	random	gamepad	subject	George		1	164	0	20	0.8	label	right	A	phone	cell	1	bird	1	B	phone_cell_1	bird_label_B	LSS_v2	test	179	964.762319705	1	344.60284991699996
+LSS_v2_123	123	random	gamepad	subject	George		1	79	1	79	0.8	label	left	B	guitar	acoustic	2	guitar	1	B	guitar_acoustic_2	guitar_label_B	LSS_v2	test	180	968.2194450860001	1	270.451752585
+LSS_v2_123	123	random	gamepad	subject	George		1	142	1	142	1.2	label	right	B	motor	harley	1	motor	1	B	motor_harley_1	motor_label_B	LSS_v2	test	181	972.114205884	1	317.196421092
+LSS_v2_123	123	random	gamepad	subject	George		1	63	1	63	1.2	label	right	A	dog	rott	2	dog	1	B	dog_rott_2	dog_label_B	LSS_v2	test	182	976.027384343	1	340.495774639
+LSS_v2_123	123	random	gamepad	subject	George		1	178	0	34	1.0	label	left	A	motor	dirt	1	guitar	1	A	motor_dirt_1	guitar_label_A	LSS_v2	test	183	979.6936159	1	294.606386917
+LSS_v2_123	123	random	gamepad	subject	George		1	64	1	64	1.2	label	right	A	drum	kit	1	drum	1	B	drum_kit_1	drum_label_B	LSS_v2	test	184	983.651758046	1	380.232391763
+LSS_v2_123	123	random	gamepad	subject	George		1	222	0	78	0.8	label	left	B	guitar	acoustic	1	drum	1	B	guitar_acoustic_1	drum_label_B	LSS_v2	test	185	987.169463027	1	332.720147562
+LSS_v2_123	123	random	gamepad	subject	George		1	191	0	47	1.0	label	right	A	motor	dirt	2	guitar	1	B	motor_dirt_2	guitar_label_B	LSS_v2	test	186	990.859715421	1	322.99805292900004
+LSS_v2_123	123	random	gamepad	subject	George		1	249	0	105	1.0	label	left	B	phone	rotary	2	motor	1	A	phone_rotary_2	motor_label_A	LSS_v2	test	187	994.569518274	1	334.361889283
+LSS_v2_123	123	random	gamepad	subject	George		1	160	0	16	0.8	label	right	A	drum	kit	1	phone	1	B	drum_kit_1	phone_label_B	LSS_v2	test	188	998.067705124	1	321.903024917
+LSS_v2_123	123	random	gamepad	subject	George		1	187	0	43	1.0	label	right	A	guitar	electric	2	bird	1	A	guitar_electric_2	bird_label_A	LSS_v2	test	189	1001.82910169	1	345.802867436
+LSS_v2_123	123	random	gamepad	subject	George		1	266	0	122	1.2	label	left	B	dog	york	1	phone	1	B	dog_york_1	phone_label_B	LSS_v2	test	190	1005.71755671	1	300.942569156
+LSS_v2_123	123	random	gamepad	subject	George		1	279	0	135	1.2	label	right	B	dog	york	2	phone	1	A	dog_york_2	phone_label_A	LSS_v2	test	191	1009.59217937	1	288.891179254
+LSS_v2_123	123	random	gamepad	subject	George		1	172	0	28	1.0	label	left	A	drum	kit	1	motor	1	B	drum_kit_1	motor_label_B	LSS_v2	test	192	1013.33374155	1	305.909726303
+LSS_v2_123	123	random	gamepad	subject	George		1	34	1	34	1.0	label	left	A	motor	dirt	1	motor	1	A	motor_dirt_1	motor_label_A	LSS_v2	test	193	1017.05037321	1	314.963473007
+LSS_v2_123	123	random	gamepad	subject	George		1	145	0	1	0.8	label	left	A	bird	hawk	2	dog	1	A	bird_hawk_2	dog_label_A	LSS_v2	test	194	1020.58358559	1	334.421105916
+LSS_v2_123	123	random	gamepad	subject	George		1	25	1	25	1.0	label	left	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	LSS_v2	test	195	1024.25839812	1	293.956284062
+LSS_v2_123	123	random	gamepad	subject	George		1	174	0	30	1.0	label	left	A	guitar	electric	1	phone	1	A	guitar_electric_1	phone_label_A	LSS_v2	test	196	1027.94128845	1	311.770894914
+LSS_v2_123	123	random	gamepad	subject	George		1	287	0	143	1.2	label	right	B	motor	harley	2	bird	1	A	motor_harley_2	bird_label_A	LSS_v2	test	197	1031.90667391	1	380.514070974
+LSS_v2_123	123	random	gamepad	subject	George		1	31	1	31	1.0	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	LSS_v2	test	198	1035.58515531	1	293.769671465
+LSS_v2_123	123	random	gamepad	subject	George		1	121	1	121	1.2	label	left	B	bird	song	2	bird	1	B	bird_song_2	bird_label_B	LSS_v2	test	199	1039.48262695	1	315.30756969
+LSS_v2_123	123	random	gamepad	subject	George		1	56	1	56	1.2	label	left	A	phone	cell	1	phone	1	A	phone_cell_1	phone_label_A	LSS_v2	test	200	1043.37632153	1	293.137813802
+LSS_v2_123	123	random	gamepad	subject	George		1	7	1	7	0.8	label	left	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	LSS_v2	test	201	1046.93750594	1	388.26857216199994
+LSS_v2_123	123	random	gamepad	subject	George		1	184	0	40	1.0	label	right	A	drum	kit	1	motor	1	A	drum_kit_1	motor_label_A	LSS_v2	test	202	1050.69875719	1	381.302772788
+LSS_v2_123	123	random	gamepad	subject	George		1	277	0	133	1.2	label	right	B	bird	song	2	dog	1	A	bird_song_2	dog_label_A	LSS_v2	test	203	1054.63320627	1	356.906790636
+LSS_v2_123	123	random	gamepad	subject	George		1	20	1	20	0.8	label	right	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	LSS_v2	test	204	1058.12315752	1	322.36811565200003
+LSS_v2_123	123	random	gamepad	subject	George		1	114	1	114	1.0	label	right	B	guitar	acoustic	1	guitar	1	A	guitar_acoustic_1	guitar_label_A	LSS_v2	test	205	1061.84160249	1	342.339173076
+LSS_v2_123	123	random	gamepad	subject	George		1	207	0	63	1.2	label	right	A	dog	rott	2	bird	1	B	dog_rott_2	bird_label_B	LSS_v2	test	206	1065.73116054	1	280.496498104
+LSS_v2_123	123	random	gamepad	subject	George		1	243	0	99	1.0	label	left	B	dog	york	2	drum	1	A	dog_york_2	drum_label_A	LSS_v2	test	207	1069.45684914	1	343.286319519
+LSS_v2_123	123	random	gamepad	subject	George		1	141	1	141	1.2	label	right	B	phone	rotary	2	phone	1	A	phone_rotary_2	phone_label_A	LSS_v2	test	208	1073.42513398	1	360.492119216
+LSS_v2_123	123	random	gamepad	subject	George		1	162	0	18	0.8	label	right	A	guitar	electric	1	drum	1	B	guitar_electric_1	drum_label_B	LSS_v2	test	209	1076.92253757	1	315.152326017
+LSS_v2_123	123	random	gamepad	subject	George		1	13	1	13	0.8	label	right	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	LSS_v2	test	210	1080.44145281	1	326.66596456
+LSS_v2_123	123	random	gamepad	subject	George		1	149	0	5	0.8	label	left	A	drum	kit	2	motor	1	B	drum_kit_2	motor_label_B	LSS_v2	test	211	1083.92221972	1	297.900433536
+LSS_v2_123	123	random	gamepad	subject	George		1	6	1	6	0.8	label	left	A	guitar	electric	1	guitar	1	A	guitar_electric_1	guitar_label_A	LSS_v2	test	212	1087.46432965	1	364.106255816
+LSS_v2_123	123	random	gamepad	subject	George		1	189	0	45	1.0	label	right	A	phone	cell	2	bird	1	B	phone_cell_2	bird_label_B	LSS_v2	test	213	1091.21697079	1	327.92743947400004
+LSS_v2_123	123	random	gamepad	subject	George		1	176	0	32	1.0	label	left	A	phone	cell	1	dog	1	B	phone_cell_1	dog_label_B	LSS_v2	test	214	1094.90498287	1	315.30244823099997
+LSS_v2_123	123	random	gamepad	subject	George		1	186	0	42	1.0	label	right	A	guitar	electric	1	drum	1	B	guitar_electric_1	drum_label_B	LSS_v2	test	215	1098.61289784	1	326.024184003
+LSS_v2_123	123	random	gamepad	subject	George		1	15	1	15	0.8	label	right	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	LSS_v2	test	216	1102.15467455	1	331.522690714
+LSS_v2_123	123	random	gamepad	subject	George		1	283	0	139	1.2	label	right	B	guitar	acoustic	2	drum	1	A	guitar_acoustic_2	drum_label_A	LSS_v2	test	217	1106.2795039	1	551.727029728
+LSS_v2_123	123	random	gamepad	subject	George		1	43	1	43	1.0	label	right	A	guitar	electric	2	guitar	1	A	guitar_electric_2	guitar_label_A	LSS_v2	test	218	1109.97089613	1	312.012242735
+LSS_v2_123	123	random	gamepad	subject	George		1	107	1	107	1.0	label	left	B	motor	harley	2	motor	1	B	motor_harley_2	motor_label_B	LSS_v2	test	219	1113.88859394	1	421.27625655800006
+LSS_v2_123	123	random	gamepad	subject	George		1	257	0	113	1.0	label	right	B	drum	bongo	2	dog	1	B	drum_bongo_2	dog_label_B	LSS_v2	test	220	1117.61200671	1	348.479780369
+LSS_v2_123	123	random	gamepad	subject	George		1	232	0	88	0.8	label	right	B	drum	bongo	1	bird	1	A	drum_bongo_1	bird_label_A	LSS_v2	test	221	1121.16208431	1	327.67392811400003
+LSS_v2_123	123	random	gamepad	subject	George		1	205	0	61	1.2	label	right	A	bird	hawk	2	dog	1	B	bird_hawk_2	dog_label_B	LSS_v2	test	222	1125.08061532	1	340.645576827
+LSS_v2_123	123	random	gamepad	subject	George		1	68	1	68	1.2	label	right	A	phone	cell	1	phone	1	B	phone_cell_1	phone_label_B	LSS_v2	test	223	1128.9783059000001	1	314.757334883
+LSS_v2_123	123	random	gamepad	subject	George		1	51	1	51	1.2	label	left	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	LSS_v2	test	224	1132.87105173	1	313.911977224
+LSS_v2_123	123	random	gamepad	subject	George		1	37	1	37	1.0	label	right	A	bird	hawk	2	bird	1	A	bird_hawk_2	bird_label_A	LSS_v2	test	225	1136.56966359	1	323.799878475
+LSS_v2_123	123	random	gamepad	subject	George		1	231	0	87	0.8	label	right	B	dog	york	2	drum	1	B	dog_york_2	drum_label_B	LSS_v2	test	226	1140.16949824	1	361.905316706
+LSS_v2_123	123	random	gamepad	subject	George		1	39	1	39	1.0	label	right	A	dog	rott	2	dog	1	A	dog_rott_2	dog_label_A	LSS_v2	test	227	1143.92026653	1	351.25432082
+LSS_v2_123	123	random	gamepad	subject	George		1	138	1	138	1.2	label	right	B	guitar	acoustic	1	guitar	1	B	guitar_acoustic_1	guitar_label_B	LSS_v2	test	228	1147.77746316	1	280.028526438
+LSS_v2_123	123	random	gamepad	subject	George		1	170	0	26	1.0	label	left	A	dog	rott	1	bird	1	B	dog_rott_1	bird_label_B	LSS_v2	test	229	1151.46035765	1	309.81194390900004
+LSS_v2_123	123	random	gamepad	subject	George		1	10	1	10	0.8	label	left	A	motor	dirt	1	motor	1	A	motor_dirt_1	motor_label_A	LSS_v2	test	230	1154.94461034	1	307.61804676099996
+LSS_v2_123	123	random	gamepad	subject	George		1	29	1	29	1.0	label	left	A	drum	kit	2	drum	1	B	drum_kit_2	drum_label_B	LSS_v2	test	231	1158.63498821	1	313.19465534799997
+LSS_v2_123	123	random	gamepad	subject	George		1	35	1	35	1.0	label	left	A	motor	dirt	2	motor	1	B	motor_dirt_2	motor_label_B	LSS_v2	test	232	1162.39336889	1	365.10077561300005
+LSS_v2_123	123	random	gamepad	subject	George		1	250	0	106	1.0	label	left	B	motor	harley	1	bird	1	B	motor_harley_1	bird_label_B	LSS_v2	test	233	1166.16012056	1	308.087618905
+LSS_v2_123	123	random	gamepad	subject	George		1	44	1	44	1.0	label	right	A	phone	cell	1	phone	1	A	phone_cell_1	phone_label_A	LSS_v2	test	234	1169.89280345	1	361.18223331900003
+LSS_v2_123	123	random	gamepad	subject	George		1	260	0	116	1.0	label	right	B	phone	rotary	1	bird	1	B	phone_rotary_1	bird_label_B	LSS_v2	test	235	1173.67298578	1	387.518921285
+LSS_v2_123	123	random	gamepad	subject	George		1	248	0	104	1.0	label	left	B	phone	rotary	1	drum	1	B	phone_rotary_1	drum_label_B	LSS_v2	test	236	1177.43965006	1	363.42766496800004
+LSS_v2_123	123	random	gamepad	subject	George		1	78	1	78	0.8	label	left	B	guitar	acoustic	1	guitar	1	A	guitar_acoustic_1	guitar_label_A	LSS_v2	test	237	1181.01725893	1	396.100215148
+LSS_v2_123	123	random	gamepad	subject	George		1	150	0	6	0.8	label	left	A	guitar	electric	1	drum	1	A	guitar_electric_1	drum_label_A	LSS_v2	test	238	1184.54402598	1	334.50048835900003
+LSS_v2_123	123	random	gamepad	subject	George		1	276	0	132	1.2	label	right	B	bird	song	1	guitar	1	B	bird_song_1	guitar_label_B	LSS_v2	test	239	1188.44210996	1	317.880773451
+LSS_v2_123	123	random	gamepad	subject	George		1	285	0	141	1.2	label	right	B	phone	rotary	2	drum	1	A	phone_rotary_2	drum_label_A	LSS_v2	test	240	1192.35058693	1	331.896555959
+LSS_v2_123	123	random	gamepad	subject	George		1	237	0	93	0.8	label	right	B	phone	rotary	2	dog	1	B	phone_rotary_2	dog_label_B	LSS_v2	test	241	1195.87489761	1	355.229198816
+LSS_v2_123	123	random	gamepad	subject	George		1	95	1	95	0.8	label	right	B	motor	harley	2	motor	1	A	motor_harley_2	motor_label_A	LSS_v2	test	242	1199.40022329	1	349.99636700400004
+LSS_v2_123	123	random	gamepad	subject	George		1	225	0	81	0.8	label	left	B	phone	rotary	2	motor	1	B	phone_rotary_2	motor_label_B	LSS_v2	test	243	1202.89955511	1	318.32825939599996
+LSS_v2_123	123	random	gamepad	subject	George		1	58	1	58	1.2	label	left	A	motor	dirt	1	motor	1	B	motor_dirt_1	motor_label_B	LSS_v2	test	244	1206.82456249	1	347.17253269599996
+LSS_v2_123	123	random	gamepad	subject	George		1	261	0	117	1.0	label	right	B	phone	rotary	2	guitar	1	A	phone_rotary_2	guitar_label_A	LSS_v2	test	245	1210.55279485	1	352.846768685
+LSS_v2_123	123	random	gamepad	subject	George		1	123	1	123	1.2	label	left	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	LSS_v2	test	246	1214.449215	1	275.09721939
+LSS_v2_123	123	random	gamepad	subject	George		1	262	0	118	1.0	label	right	B	motor	harley	1	phone	1	A	motor_harley_1	phone_label_A	LSS_v2	test	247	1218.19881336	1	371.19112862300005
+LSS_v2_123	123	random	gamepad	subject	George		1	113	1	113	1.0	label	right	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	LSS_v2	test	248	1221.9529967	1	370.10346271599997
+LSS_v2_123	123	random	gamepad	subject	George		1	215	0	71	1.2	label	right	A	motor	dirt	2	bird	1	A	motor_dirt_2	bird_label_A	LSS_v2	test	249	1225.85705579	1	323.70865275200003
+LSS_v2_123	123	random	gamepad	subject	George		1	30	1	30	1.0	label	left	A	guitar	electric	1	guitar	1	A	guitar_electric_1	guitar_label_A	LSS_v2	test	250	1229.55921105	1	327.602868085
+LSS_v2_123	123	random	gamepad	subject	George		1	61	1	61	1.2	label	right	A	bird	hawk	2	bird	1	B	bird_hawk_2	bird_label_B	LSS_v2	test	251	1233.43996119	1	297.41549701400004
+LSS_v2_123	123	random	gamepad	subject	George		1	101	1	101	1.0	label	left	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	LSS_v2	test	252	1237.09794531	1	288.365911576
+LSS_v2_123	123	random	gamepad	subject	George		1	119	1	119	1.0	label	right	B	motor	harley	2	motor	1	A	motor_harley_2	motor_label_A	LSS_v2	test	253	1240.81621583	1	340.054050437
+LSS_v2_123	123	random	gamepad	subject	George		1	167	0	23	0.8	label	right	A	motor	dirt	2	drum	1	A	motor_dirt_2	drum_label_A	LSS_v2	test	254	1244.33110305	1	346.29100479699997
+LSS_v2_123	123	random	gamepad	subject	George		1	96	1	96	1.0	label	left	B	bird	song	1	bird	1	A	bird_song_1	bird_label_A	LSS_v2	test	255	1247.9832945	1	276.824105065
+LSS_v2_123	123	random	gamepad	subject	George		1	226	0	82	0.8	label	left	B	motor	harley	1	drum	1	B	motor_harley_1	drum_label_B	LSS_v2	test	256	1251.47242568	1	297.029788489
+LSS_v2_123	123	random	gamepad	subject	George		1	216	0	72	0.8	label	left	B	bird	song	1	dog	1	B	bird_song_1	dog_label_B	LSS_v2	test	257	1254.99151441	1	289.14501064
+LSS_v2_123	123	random	gamepad	subject	George		1	136	1	136	1.2	label	right	B	drum	bongo	1	drum	1	A	drum_bongo_1	drum_label_A	LSS_v2	test	258	1258.8710114	1	256.351786666
+LSS_v2_123	123	random	gamepad	subject	George		1	11	1	11	0.8	label	left	A	motor	dirt	2	motor	1	A	motor_dirt_2	motor_label_A	LSS_v2	test	259	1262.38003266	1	297.70581866599997
+LSS_v2_123	123	random	gamepad	subject	George		1	91	1	91	0.8	label	right	B	guitar	acoustic	2	guitar	1	A	guitar_acoustic_2	guitar_label_A	LSS_v2	test	260	1265.87178217	1	305.32908299900004
+LSS_v2_123	123	random	gamepad	subject	George		1	77	1	77	0.8	label	left	B	drum	bongo	2	drum	1	A	drum_bongo_2	drum_label_A	LSS_v2	test	261	1269.3463307	1	287.350586033
+LSS_v2_123	123	random	gamepad	subject	George		1	190	0	46	1.0	label	right	A	motor	dirt	1	drum	1	B	motor_dirt_1	drum_label_B	LSS_v2	test	262	1273.03981536	1	315.594050335
+LSS_v2_123	123	random	gamepad	subject	George		1	267	0	123	1.2	label	left	B	dog	york	2	motor	1	A	dog_york_2	motor_label_A	LSS_v2	test	263	1276.9126755999998	1	295.551292715
+LSS_v2_123	123	random	gamepad	subject	George		1	228	0	84	0.8	label	right	B	bird	song	1	phone	1	A	bird_song_1	phone_label_A	LSS_v2	test	264	1280.4041476	1	319.262922276
+LSS_v2_123	123	random	gamepad	subject	George		1	223	0	79	0.8	label	left	B	guitar	acoustic	2	bird	1	A	guitar_acoustic_2	bird_label_A	LSS_v2	test	265	1283.84596339	1	261.999135138
+LSS_v2_123	123	random	gamepad	subject	George		1	86	1	86	0.8	label	right	B	dog	york	1	dog	1	B	dog_york_1	dog_label_B	LSS_v2	test	266	1287.37068987	1	339.706752682
+LSS_v2_123	123	random	gamepad	subject	George		1	152	0	8	0.8	label	left	A	phone	cell	1	guitar	1	B	phone_cell_1	guitar_label_B	LSS_v2	test	267	1290.90613264	1	300.192277995
+LSS_v2_123	123	random	gamepad	subject	George		1	5	1	5	0.8	label	left	A	drum	kit	2	drum	1	A	drum_kit_2	drum_label_A	LSS_v2	test	268	1294.42339269	1	335.805175244
+LSS_v2_123	123	random	gamepad	subject	George		1	75	1	75	0.8	label	left	B	dog	york	2	dog	1	A	dog_york_2	dog_label_A	LSS_v2	test	269	1297.92027133	1	323.727858136
+LSS_v2_123	123	random	gamepad	subject	George		1	92	1	92	0.8	label	right	B	phone	rotary	1	phone	1	A	phone_rotary_1	phone_label_A	LSS_v2	test	270	1301.45339633	1	335.051043192
+LSS_v2_123	123	random	gamepad	subject	George		1	115	1	115	1.0	label	right	B	guitar	acoustic	2	guitar	1	B	guitar_acoustic_2	guitar_label_B	LSS_v2	test	271	1305.15148485	1	314.573923359
+LSS_v2_123	123	random	gamepad	subject	George		1	235	0	91	0.8	label	right	B	guitar	acoustic	2	drum	1	B	guitar_acoustic_2	drum_label_B	LSS_v2	test	272	1308.6475415	1	319.12304298
+LSS_v2_123	123	random	gamepad	subject	George		1	264	0	120	1.2	label	left	B	bird	song	1	phone	1	B	bird_song_1	phone_label_B	LSS_v2	test	273	1312.54426925	1	313.02980904
+LSS_v2_123	123	random	gamepad	subject	George		1	202	0	58	1.2	label	left	A	motor	dirt	1	drum	1	A	motor_dirt_1	drum_label_A	LSS_v2	test	274	1316.45550188	1	334.968139767
+LSS_v2_123	123	random	gamepad	subject	George		1	135	1	135	1.2	label	right	B	dog	york	2	dog	1	B	dog_york_2	dog_label_B	LSS_v2	test	275	1320.33585255	1	308.107144432
+LSS_v2_123	123	random	gamepad	subject	George		1	0	1	0	0.8	label	left	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	LSS_v2	test	276	1323.80672804	1	295.574979275
+LSS_v2_123	123	random	gamepad	subject	George		1	199	0	55	1.2	label	left	A	guitar	electric	2	phone	1	A	guitar_electric_2	phone_label_A	LSS_v2	test	277	1327.71904897	1	331.304069143
+LSS_v2_123	123	random	gamepad	subject	George		1	268	0	124	1.2	label	left	B	drum	bongo	1	guitar	1	B	drum_bongo_1	guitar_label_B	LSS_v2	test	278	1331.61841139	1	325.064234086
+LSS_v2_123	123	random	gamepad	subject	George		1	210	0	66	1.2	label	right	A	guitar	electric	1	bird	1	A	guitar_electric_1	bird_label_A	LSS_v2	test	279	1335.56012107	1	355.46702577300005
+LSS_v2_123	123	random	gamepad	subject	George		1	117	1	117	1.0	label	right	B	phone	rotary	2	phone	1	B	phone_rotary_2	phone_label_B	LSS_v2	test	280	1339.3024662	1	350.13048467199997
+LSS_v2_123	123	random	gamepad	subject	George		1	236	0	92	0.8	label	right	B	phone	rotary	1	bird	1	B	phone_rotary_1	bird_label_B	LSS_v2	test	281	1342.94316129	1	455.350160832
+LSS_v2_123	123	random	gamepad	subject	George		1	80	1	80	0.8	label	left	B	phone	rotary	1	phone	1	B	phone_rotary_1	phone_label_B	LSS_v2	test	282	1346.45778765	1	310.130753671
+LSS_v2_123	123	random	gamepad	subject	George		1	12	1	12	0.8	label	right	A	bird	hawk	1	bird	1	A	bird_hawk_1	bird_label_A	LSS_v2	test	283	1349.99274708	1	356.974649825
+LSS_v2_123	123	random	gamepad	subject	George		1	213	0	69	1.2	label	right	A	phone	cell	2	motor	1	B	phone_cell_2	motor_label_B	LSS_v2	test	284	1353.91871314	1	346.056698821
+LSS_v2_123	123	random	gamepad	subject	George		1	166	0	22	0.8	label	right	A	motor	dirt	1	guitar	1	B	motor_dirt_1	guitar_label_B	LSS_v2	test	285	1357.45048607	1	361.344518955
+LSS_v2_123	123	random	gamepad	subject	George		1	9	1	9	0.8	label	left	A	phone	cell	2	phone	1	A	phone_cell_2	phone_label_A	LSS_v2	test	286	1360.96724103	1	340.30884201599997
+LSS_v2_123	123	random	gamepad	subject	George		1	133	1	133	1.2	label	right	B	bird	song	2	bird	1	A	bird_song_2	bird_label_A	LSS_v2	test	287	1364.84198371	1	294.902790338
