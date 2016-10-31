@@ -1,1 +1,1 @@
-subjCode	seed	cuePicMapping	responseDevice	data	room	initials	trialIter	trialID	valid_cue	target_id	soa	cue_type	side	pic_version	pic_category	pic_type	pic_id	cue_category	block	cue_version	pic_file	cue_file	whichPart	curTrialIndex	expTimer	isRight	rt
+subjCode	seed	cuePicMapping	responseDevice	data	room	initials	trialIter	trialID	valid_cue	target_id	soa	cue_type	side	pic_version	pic_category	pic_type	pic_id	cue_category	block	cue_version	pic_file	cue_file	exp_name	whichPart	curTrialIndex	expTimer	isRight	rt
