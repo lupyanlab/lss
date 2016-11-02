@@ -14,6 +14,8 @@ opts_chunk$set(
   message = FALSE,
   warning = FALSE,
   fig.path = "figs/",
+  fig.width = 4,
+  fig.height = 2.67,
   cache = TRUE,
   cache.path = ".cache/"
 )
@@ -58,4 +60,22 @@ tidy(error_mod, effects = "fixed") %>%
 ```
 
 ```{r error-plot}
+```
+
+# SOA
+
+```{r soa-plot}
+```
+
+# Mapping consistency
+
+```{r mapping-rt-mod, echo = 1}
+```
+
+```{r}
+tidy(mapping_rt_mod, effects = "fixed") %>%
+  kable(digits = 2)
+```
+
+```{r mapping-rt-plot}
 ```
