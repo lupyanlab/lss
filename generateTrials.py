@@ -6,8 +6,6 @@ generateTrials.py
 import pandas as pd
 import numpy as np
 
-#                  'soa': ['.8', '1.0', '1.2'],
-
 
 from experimentResources import (counterbalance, expand, extend,
                                  add_block, smart_shuffle)
@@ -18,7 +16,7 @@ def main(seed=None, cuePicMapping='random', ratio=0.50, block_size=100,
     if seed:
         seed = int(seed)
     conditions = {'cue_type':['label'],
-                  'soa': ['.4', '.5', '.7'],
+                  'soa': ['.8', '1.0', '1.2'],
                   'side': ['left','right'],
                   'pic_version':['A','B']}
     trialTypes = counterbalance(conditions)
@@ -64,4 +62,5 @@ if __name__ == '__main__':
     #    print 'generating ', str(seed)
     #    trials = main(cuePicMapping='random',seed=seed)
     #    trials.to_csv('trials/seed'+str(seed)+'.csv', index=False)
+    trials=main(cuePicMapping='random',seed=101)
     trials.to_csv('sample_trials.csv', index=False)
